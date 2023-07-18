@@ -208,12 +208,12 @@ https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.m
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M1SD" tvg-group="ESPAÑA", DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=be55ca2023d646d2909637a6f344e172&key=a654880f5535ef3e6644a41cf1f8f25c
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://mplus1-dash-movistarplus.emisiondof6.com/dash/mplus1.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M2SD" tvg-group="ESPAÑA", DAZN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=645d756483f543d3b433f8989a570b39&key=825abbe13521db2aea119e1531d891cb
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://mplus2-dash-movistarplus.emisiondof6.com/dash/mplus2.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP" tvg-group="ESPAÑA", Eurosport 1
