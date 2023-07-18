@@ -118,7 +118,7 @@ https://xtrm-dash-movistarplus.emisiondof6.com/dash/xtrmor.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET" tvg-group="ESPAÑA", AXN White
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/fifaivan/TV/main/daznlaliga.json
-https://01daznlaliga-dash-movistarplus.emisiondof6.com/dash/01daznlaliga.isml/manifest.mpd
+https://crytonep.herokuapp.com/https://01daznliga-dash-movistarplus.emisiondof6.com/dash/01daznliga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SCI-FI" tvg-group="ESPAÑA", SYFY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
