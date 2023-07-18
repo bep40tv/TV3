@@ -40,7 +40,7 @@ https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b75bd2ed7a824043a48fd99ff16a0411&key=ff08d06983af562da4f17dada8661d0e
 https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png" CMM TV
+#EXTINF:-1, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png" ,CMM TV
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA" tvg-group="ESPAÑA", M+ PopUp
