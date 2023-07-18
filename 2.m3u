@@ -438,4 +438,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1060
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/dtv2.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1063
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rMZ9xg/Dtvplus.png" tvg-group="DEPORTES", DIRECTV SPORTS PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dtvplus.json
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
