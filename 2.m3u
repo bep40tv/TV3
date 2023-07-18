@@ -186,7 +186,7 @@ https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" tvg-group="ESPAÃ‘A", LALIGA HYPERMOTION TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57c5f747664148e089c837a299d43a12&key=fcfb6ecf33cc76009ef024a0ed643655
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57c5f747664148e089c837a299d43a12&key=47f7c5574166e04889c837a299d43a12
 https://msegdiv-dash-movistarplus.emisiondof6.com/dash/msegdiv.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" tvg-group="ESPAÃ‘A", DAZN LaLiga
