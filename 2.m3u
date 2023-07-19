@@ -179,6 +179,11 @@ https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82de8500b55a4a6aa18a7d97b525c93f&key=f1beb39f5d8fcf996e93287096eb0d25
 https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VAMOSD" tvg-group="ESPAÑA", M+ #Vamos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b75bd2ed7a824043a48fd99ff16a0411&key=ff08d06983af562da4f17dada8661d0e
+https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" tvg-group="ESPAÃ‘A", M+ LaLiga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57c5f747664148e089c837a299d43a12&key=fcfb6ecf33cc76009ef024a0ed643655
