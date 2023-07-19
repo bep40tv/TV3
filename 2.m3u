@@ -202,8 +202,8 @@ https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.ism
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAPIO" tvg-group="ESPAÑA", M+ Liga de Campeones 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0d35a933a80c48bc98f17906ee83a56d&key=6461b4d5866add924b6cadc2cf59ce84
-https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3f7d6e024f5d4a43bb6fb49982642700&key=73efc8cee9d397eb768bde1bb3be0698
+https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP" tvg-group="ESPAÑA", M+ Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
