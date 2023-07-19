@@ -1,4 +1,4 @@
-#EXTM3U list-name="Solo ESPAÑA (VPN) 🇪🇸" list-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/768px-Spain_flag_icon.svg.png" author="Clic aqui para mas listas 😍" author-url="https://bit.ly/listas-app"
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVE" tvg-group="ESPAÑA", LA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
