@@ -5,4 +5,4 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys" :[{"kty":"oct","kid":"0uFfw52QUqC/Xt8XSYeF6g","k":"VD3dJBcJiC2MuxYsLBG5ZA"},{"kty":" oct","kid":"4siMHOx4VHWrawWhxNFaeA","k":"BriRsZUyEcgoa7MSrQXp5Q"},{"kty":"oct","kid":"RDVDIBD0XdmWfc483hhmSw","k":"DQvy4ud5n/Jsi7grG+Z8ig"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvup-live.secure.footprint.net/laligatv/laligatv.mpd
+https://tvup-live.secure.footprint.net/castillalamancha/castillalamancha.mpd
