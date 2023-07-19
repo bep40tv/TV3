@@ -184,6 +184,12 @@ https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57c5f747664148e089c837a299d43a12&key=fcfb6ecf33cc76009ef024a0ed643655
 https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" tvg-group="ESPAÃ‘A", LaLiga Hypermotion TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" tvg-group="ESPAÃ‘A", DAZN LaLiga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
