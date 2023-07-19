@@ -185,7 +185,7 @@ https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manife
 https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" tvg-group="ESPAÃ‘A", LaLiga Hypermotion TV
-#KODIPROP:inputstream.adaptive.license_type=org.clearkey.v3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"/PtuzzPMdgCe8CSg7WQ2VQ","kid":"V8X3R2ZBSOCJyDeimdQ6Eg"}],"type":"temporary"}
 https://msegdiv-dash-movistarplus.emisiondof6.com/dash/msegdiv.isml/manifest.mpd
 
