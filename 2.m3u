@@ -1,64 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVE" tvg-group="ESPAÑA", LA 1
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVE" tvg-group="TDT", LA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=14fc0e3b249a43faa52fc69279e77cab&key=71c987df089eda046faf592931e84a5c
 https://tvela1-dash-movistarplus.emisiondof6.com/dash/tvela1.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2" tvg-group="ESPAÑA", LA 2
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2" tvg-group="TDT", LA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=843f979b605b4df3aeef459fea7c5287&key=208ee6c34633c93aa9abb3fdaa83818a
 https://la2-dash-movistarplus.emisiondof6.com/dash/la2.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/A3" tvg-group="ESPAÑA", Antena 3
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/A3" tvg-group="TDT", Antena 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7bed9527b60a44dc8fbbe984568253a6&key=b62d1096db64d3ce09120f4b98472f22
 https://antena3-dash-movistarplus.emisiondof6.com/dash/antena3.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4" tvg-group="ESPAÑA", Cuatro
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4" tvg-group="TDT", Cuatro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=26a7ba3841ad411ea13a9fb9d1470ea9&key=210006fb5fdcae5a7d36051de31911b4
 https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/T5" tvg-group="ESPAÑA", Telecinco
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/T5" tvg-group="TDT", Telecinco
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=809ed76f265641d9bc731351d6a06c40&key=97315744b3b70a74af746cdd61a299da
 https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA" tvg-group="ESPAÑA", La Sexta
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA" tvg-group="TDT", La Sexta
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=81cd66b57f22429b9996220256374ed4&key=233f8d8ebcd73817b03cd90936c22303
 https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV3" tvg-group="ESPAÑA", M+ #0
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV3" tvg-group="ENTRETENIMIENTO", M+ #0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc6b7adcd1d74e37ad30a097328f28bf&key=b7e464cba8751a87f4005a0766f47c4a
 https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VAMOSD" tvg-group="ESPAÑA", M+ #Vamos
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VAMOSD" tvg-group="DEPORTE", M+ #Vamos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b75bd2ed7a824043a48fd99ff16a0411&key=ff08d06983af562da4f17dada8661d0e
 https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png" ,CMM TV
+#EXTINF:-1, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png" tvg-group="TDT" ,CMM TV
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA" tvg-group="ESPAÑA", M+ PopUp
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA" tvg-group="ENTRETENIMIENTO", M+ PopUp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e3e0b0471630497eb81fc17f39a52218&key=4f44558664e3efc1811b7ce88beb597a
 https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1" tvg-group="ESPAÑA", M+ Estrenos
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1" tvg-group="ENTRETENIMIENTO", M+ Estrenos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9fb1f0638d3f4aeca37a3c7a6af2fef6&key=c8d3d2725ca7fb23b0654830aa322f2a
 https://estrenos-dash-movistarplus.emisiondof6.com/dash/estrenos.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEST2" tvg-group="ESPAÑA", M+ Estrenos 2
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEST2" tvg-group="ENTRETENIMIENTO", M+ Estrenos 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=80f3cf94930a4bdf9ec6aa72e947c4ca&key=9c772b2117e7aa395b69e0e8a1200819
 https://mestreno2-dash-movistarplus.emisiondof6.com/dash/mestreno2.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" tvg-group="ESPAÑA", M+ Clásicos
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" tvg-group="", M+ Clásicos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3167f5b1dca94bd39465b3a8a4295069&key=ec9c5d1a5435ccf47231105e7d31c0ba
 https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest.mpd
