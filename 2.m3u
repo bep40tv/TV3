@@ -445,3 +445,9 @@ https://dazn3-dash-movistarplus.emisiondof6.com/dash/dazn3.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=436c2164392e460dae41420f53f9f396&key=8e0ea1289135355f0aef59266bd0070e
 https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN4" tvg-group="ESPAÑA", DAZN LALIGA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4b583d126cb14c5492d19a2f95d1ba56&key=fcfb6ecf33cc76009ef024a0ed643655
+https://02daznliga-dash-movistarplus.emisiondof6.com/dash/02daznliga.isml/manifest.mpd
+
