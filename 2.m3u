@@ -199,9 +199,9 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b4460854574065b4813bc9971c5179&key=cfe204a1146bbddbd54b3dc1848c1bfe
 https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-group="ESPAÃ‘A", M+ LaLiga 3
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-group="ESPAÃ‘A", M+ LaLiga 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b4460854574065b4813bc9971c5179&key=cfe204a1146bbddbd54b3dc1848c1bfe
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=be4a8104bef442e6a201ed00b261cf3c&key=b31c3762cb8e75b419bc5c71477c6ae8
 https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
 
 
