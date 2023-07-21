@@ -326,6 +326,10 @@ https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d28d2ee92c34669ac4ed380cbc2f316&key=284a3bba9acabc6109282bd866d2b80c
 https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM" tvg-group="ESPAÃ‘A", AMC Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=50d9708d9d814d919a2af457060dc55e&key=0358f48f4a93b5f999bfc58699ea15ec
+https://crimeamc-dash-movistarplus.emisiondof6.com/dash/crimeamcor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DIVINI" tvg-group="ESPAÑA", Divinity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
