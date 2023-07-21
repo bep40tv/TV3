@@ -113,6 +113,11 @@ https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c67c13bc3c442b092e4906cb01b344f&key=d2fdc0f0dacbe6180a479526657d7a6f
 https://1axn-dash-movistarplus.emisiondof6.com/dash/1axn.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET" tvg-group="ESPAÃ‘A", AXN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3627b1398b714e0ba2d950ac238ae72d&key=35028469e77902718cff04c81ae7bea0
+https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PCM" tvg-group="ESPAÑA", Comedy Central
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=18a265a968c34a0a87218ac68579cc78&key=77d5e68a667e5180c86cfe9e494bd54d
