@@ -341,6 +341,11 @@ https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2a25461a05df426e8a5948844e773ef0&key=d5fdfe91ab048311db22684428ca5dc7
 https://babytv-dash-movistarplus.emisiondof6.com/dash/babytvor.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PANDA" tvg-group="ESPAÃ‘A", Enfamilia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5969b9b5d5094e95b285f6f10e47b85d&key=3bdd76952eb0339cc470f50e1067f5f7
+https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PLAYDC" tvg-group="ESPAÑA", Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c6a165dec8d64c1b9e7c4f13641384db&key=0046d12ca01ab10af602dc401bd70fab
