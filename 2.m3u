@@ -309,7 +309,7 @@ https://odisea-dash-movistarplus.emisiondof6.com/dash/odiseaor.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BUENV" tvg-group="ESPAÃ‘A", ¡BuenViaje!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6cfa89d8fa8c4ae39ff6bd74f23a9234&key=1bcbffdb91b5d91bd46c6cac1bb23950
-https://buanviaje-dash-movistarplus.emisiondof6.com/dash/buenviajeor.isml/manifest.mpd
+https://buenviaje-dash-movistarplus.emisiondof6.com/dash/buenviajeor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" tvg-group="ESPAÑA", Canal Cocina
 #KODIPROP:inputstream.adaptive.license_type=clearkey
