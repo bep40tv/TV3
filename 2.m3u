@@ -108,6 +108,11 @@ https://m2series-dash-movistarplus.emisiondof6.com/dash/m2series.isml/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=45e41639a0b9453f9b260cb9d0326369&key=f0358c680ffc46904007de461388df28
 https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TNT" tvg-group="ESPAÃ‘A", WarnerTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cdcc9285b9b04270977a9278bd6b1168&key=fdc92cc2ba77e0c106f98a3143fa4f57
+https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN" tvg-group="ESPAÑA", AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c67c13bc3c442b092e4906cb01b344f&key=d2fdc0f0dacbe6180a479526657d7a6f
