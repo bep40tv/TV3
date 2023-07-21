@@ -321,6 +321,12 @@ https://buenviaje-dash-movistarplus.emisiondof6.com/dash/buenviajeor.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4074ed3a5d3541d68b9a06a391c519ea&key=0215a508f3925cb98ab7be64f7e55aba
 https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" tvg-group="ESPAÑA", AMC Break
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d28d2ee92c34669ac4ed380cbc2f316&key=284a3bba9acabc6109282bd866d2b80c
+https://amcbreak-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DIVINI" tvg-group="ESPAÑA", Divinity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c9552e0515b247779d2c204dc12f46b5&key=af2b942b509c264db4b9b5c9e2235c32
