@@ -43,7 +43,7 @@ https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 #EXTINF:-1, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png" tvg-group="TDT" ,CMM TV
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA" tvg-group="ENTRETENIMIENTO", M+ PopUp
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVCIVA.png" tvg-group="ENTRETENIMIENTO", M+ PopUp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e3e0b0471630497eb81fc17f39a52218&key=4f44558664e3efc1811b7ce88beb597a
 https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
