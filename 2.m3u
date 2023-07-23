@@ -251,10 +251,10 @@ https://mdeportes-dash-movistarplus.emisiondof6.com/dash/mdeportes.isml/manifest
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff9f96b0f764421fb84df9e6babe45e8&key=5d95b15a3e821d733d09aa82faacfbdb
 https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVF1" tvg-group="ESPAÑA", DAZN F1
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVF1" tvg-group="ESPAÃ‘A", DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=413b3adb78dd4684a7866819786b8836&key=92d6e5cfbe02fef2e09e27617e3b9403
+https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M1SD" tvg-group="ESPAÑA", DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
