@@ -220,7 +220,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd?p=web
 https://msegdiv-dash-movistarplus.emisiondof6.com/dash/msegdiv.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-group="ESPAÃ‘A", M+ LaLiga 2
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG1" tvg-group="ESPAÃ‘A", M+ LaLiga 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b4460854574065b4813bc9971c5179&key=cfe204a1146bbddbd54b3dc1848c1bfe
 https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
