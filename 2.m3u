@@ -33,7 +33,7 @@ https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV3" tvg-group="ENTRETENIMIENTO", M+ #0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc6b7adcd1d74e37ad30a097328f28bf&key=b7e464cba8751a87f4005a0766f47c4a
-https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
+https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VAMOSD" tvg-group="DEPORTE", M+ #Vamos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
