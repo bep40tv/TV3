@@ -286,8 +286,8 @@ https://01dazn-dash-movistarplus.emisiondof6.com/dash/01dazn.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M2SD" tvg-group="ESPAÑA", DAZN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-038/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=645d756483f543d3b433f8989a570b39&key=825abbe13521db2aea119e1531d891cb
+https://02dazn-dash-movistarplus.emisiondof6.com/dash/02dazn.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP" tvg-group="ESPAÑA", Eurosport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
