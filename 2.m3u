@@ -553,5 +553,5 @@ https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manife
 #EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" ,LaLiga TV BAR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys" :[ {"kty":"oct","k":"ba/cvKGLVFGyW7fVHEov5Q==","kid":"js6RjPTA1SSCJ4jJq0cMeQ=="}, {"kty":"oct","k":"g4sozj4IWiC1JvaGwrcQeQ==","kid":"SpdLpqxA4Y9bJancaJnFjw=="}, {"kty":"oct","k":"Flq8mcfzUW6J3alPujdCow==","kid":"CaT1ulOCI3OvcAw1jGEM8A=="} ],"type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[ {"kty":"oct","k":"js6RjPTA1SSCJ4jJq0cMeQ","kid":"ba/cvKGLVFGyW7fVHEov5Q"}, {"kty":"oct","k":"SpdLpqxA4Y9bJancaJnFjw","kid":"g4sozj4IWiC1JvaGwrcQeQ"}, {"kty":"oct","k":"CaT1ulOCI3OvcAw1jGEM8A","kid":"Flq8mcfzUW6J3alPujdCow"} ],"type":"temporary" }
 https://tvup-live.secure.footprint.net/castillalamancha/castillalamancha.mpd
