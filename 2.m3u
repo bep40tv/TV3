@@ -549,3 +549,9 @@ https://6multidep-dash-movistarplus.emisiondof6.com/dash/6multidep.isml/manifest
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b460369baa24719b2bdcfc0a4bd978a&key=2189232c870323e05eee0c84bf02082a
 https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" ,LaLiga TV BAR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d2e15fc39d9052a0bf5edf17498785ea":"7f8a4ce4f7bd03678ba1a38c42ce6645","e2c88c1cec785475ab6b05a1c4d15a78":"f02229cd48f5b978b684ee6b1ce06072","4435432010f45dd9967dce3cde18664b":"afba9d76764f42a776e07cb9ae5e45da"}
+https://tvup-live.secure.footprint.net/laligatv/laligatv.mpd
