@@ -545,3 +545,7 @@ https://5multidep-dash-movistarplus.emisiondof6.com/dash/5multidep.isml/manifest
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fe1eb28667e4fc396f1532f3abd6a37&key=1f2daf34eed9b667e702ce16baece0c7
 https://6multidep-dash-movistarplus.emisiondof6.com/dash/6multidep.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI6" tvg-group="ESPAÑA", M+ Deportes 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b460369baa24719b2bdcfc0a4bd978a&key=2189232c870323e05eee0c84bf02082a
+https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manifest.mpd
