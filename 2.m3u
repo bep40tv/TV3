@@ -530,3 +530,8 @@ https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4b583d126cb14c5492d19a2f95d1ba56&key=5d9712e892af2711fa15eafd5398dca4
 https://02daznliga-dash-movistarplus.emisiondof6.com/dash/02daznliga.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP4" tvg-group="ESPAÑA", M+ Deportes 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9aa45540f9a44a9782ed5d09ecaf25f9&key=dae69d47171bf1247220a1ea1e97385e
+https://5multidep-dash-movistarplus.emisiondof6.com/dash/5multidep.isml/manifest.mpd
+
