@@ -550,7 +550,7 @@ https://6multidep-dash-movistarplus.emisiondof6.com/dash/6multidep.isml/manifest
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b460369baa24719b2bdcfc0a4bd978a&key=2189232c870323e05eee0c84bf02082a
 https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" ,LaLiga TV BAR
+#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" , CMM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys" :[ {"kty":"oct","k":"js6RjPTA1SSCJ4jJq0cMeQ","kid":"ba/cvKGLVFGyW7fVHEov5Q"}, {"kty":"oct","k":"SpdLpqxA4Y9bJancaJnFjw","kid":"g4sozj4IWiC1JvaGwrcQeQ"}, {"kty":"oct","k":"CaT1ulOCI3OvcAw1jGEM8A","kid":"Flq8mcfzUW6J3alPujdCow"} ],"type":"temporary" }
