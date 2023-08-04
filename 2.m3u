@@ -30,9 +30,9 @@ https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=81cd66b57f22429b9996220256374ed4&key=233f8d8ebcd73817b03cd90936c22303
 https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV3" tvg-group="ENTRETENIMIENTO", M+ #0
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV3" tvg-group="ENTRETENIMIENTO", Movistar Plus+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc6b7adcd1d74e37ad30a097328f28bf&key=b7e464cba8751a87f4005a0766f47c4a
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8468eebb95d8418ca85df6a2381fb64d&key=008748a6acbbb3491bf5dd49355d8207
 https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7508_420_1_C00000_0_0_0.png" tvg-group="DEPORTE", M+ Vamos
