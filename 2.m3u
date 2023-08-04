@@ -553,7 +553,7 @@ https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manife
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TV13" , TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI6" tvg-group="ESPAÑA", Caza y pesca
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CAZPES" tvg-group="ESPAÑA", Caza y pesca
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e08814a33e4842d29cb6d4cf97af6f36&key=4d40de76240002f6f0dfbccd5e145476
 https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
