@@ -588,7 +588,7 @@ https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manife
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DKISS" tvg-group="ESPAÑA", DKISS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"51/tJOlWoUKTKGqgbCBVHQ==", "kid":"04ogFw6MVDmKfkqpUjKZjQ==" }, { "kty":"oct", "k":"D1DP7glKOtDUqkC4Lv1+TA==", "kid":"XPZgqTISVLyUxkAqWG5SLw==" } ], "type":"temporary" }
-https://tvup-live.secure.footprint.net/dkiss/dkiss.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=31d3c8de4f46404d96855a84b3568ea1&key=72d1c888c7ccb4bb2bb10e61fd241a5b
+https://dkiss-dash-movistarplus.emisiondof6.com/dash/dkissor.isml/manifest.mpd
 
 
