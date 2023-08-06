@@ -555,6 +555,11 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GARAGE" ,El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC" tvg-group="ESPAÑA",AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4731f1896bb14771afbd1c71c22f2aa2&key=b1fa646ebe218d19658b3e313a498593
+https://1amc-dash-movistarplus.emisiondof6.com/dash/1amc.isml/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/REALM" ,Real Madrid TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
