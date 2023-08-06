@@ -572,7 +572,12 @@ https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e08814a33e4842d29cb6d4cf97af6f36&key=4d40de76240002f6f0dfbccd5e145476
 https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DKISS" tvg-group="ESPAÑA", DKISS
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DKISS" tvg-group="ESPAÑA",DKISS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=31d3c8de4f46404d96855a84b3568ea1&key=72d1c888c7ccb4bb2bb10e61fd241a5b
 https://dkiss-dash-movistarplus.emisiondof6.com/dash/dkissor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TEN" tvg-group="ESPAÑA",TEN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac2bea70e42c491a86fb12b56b313b39&key=0777151699e8a9ffc0759e1d690316
+https://tvten-dash-movistarplus.emisiondof6.com/dash/tvtenor.isml/manifest.mpd
