@@ -46,6 +46,11 @@ https://moriginales-dash-movistarplus.emisiondof6.com/dash/moriginales.isml/mani
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=535ec7ec6ef6458e92bf953715a9b883&key=3bf44acc04bba5479207d28b28edef78
 https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1" tvg-group="ENTRETENIMIENTO", M+ Cine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9fb1f0638d3f4aeca37a3c7a6af2fef6&key=c8d3d2725ca7fb23b0654830aa322f2a
+https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSUSP" tvg-group="ENTRETENIMIENTO", M+ Suspense
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f1402c9cff644e849da55cfb92f2467b&key=ff12458374e6f01c3b710631df20badb
