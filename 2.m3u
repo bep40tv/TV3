@@ -576,9 +576,3 @@ https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=31d3c8de4f46404d96855a84b3568ea1&key=72d1c888c7ccb4bb2bb10e61fd241a5b
 https://dkiss-dash-movistarplus.emisiondof6.com/dash/dkissor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC" tvg-group="ESPAÑA", AMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4731f1896bb14771afbd1c71c22f2aa2&key=b1fa646ebe218d19658b3e313a498593
-https://amc-dash-movistarplus.emisiondof6.com/dash/amc.isml/manifest.mpd
-
