@@ -508,36 +508,6 @@ https://tdttelemadrid-dash-movistarplus.emisiondof6.com/dash/tdttelemadrid.isml/
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90010ddd0f874788967b18b48e53bbf7&key=25518651c222ae0174b5c8bc69894ef5
 https://tdt1etb-dash-movistarplus.emisiondof6.com/dash/tdt1etb.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV" tvg-group="ESPAÑA", Canal Sur Andalucía
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=23994c0ce4914a38a04e1edde8463d65&key=6958cd82ff263c2785d84af2d3a2a339
-https://csur-dash-movistarplus.emisiondof6.com/dash/csuror.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVG" tvg-group="ESPAÑA", TVG Europa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dbb416e86940485fb2005ec77959e2d6&key=d4b65ecd39a17d2d21c18e970196b839
-https://galicia-dash-movistarplus.emisiondof6.com/dash/galiciaor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM" tvg-group="ESPAÑA", Canal Extremadura Sat
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6836ea7cd3a74287a89dbe6a67894b67&key=03438109843ce8e201852676aaca62bd
-https://extremadura-dash-movistarplus.emisiondof6.com/dash/extremaduraor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVC" tvg-group="ESPAÑA", TV3 Cat
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3a6b47b2e2a24ecb8f9cdf15092c7ca1&key=9e6fe0f1ab493cb10d6bdf0f0677ffda
-https://tv3cat-dash-movistarplus.emisiondof6.com/dash/tv3cator.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ETB" tvg-group="ESPAÑA", EITB Basque
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2017c7c8882f415cb391baa122fd72e0&key=f5338d7f01e3084f797c468c334f96c3
-https://etb-dash-movistarplus.emisiondof6.com/dash/etbor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON" tvg-group="ESPAÑA", Aragón TV Int
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a91300ef2736487ba77936760785000e&key=2212acc1fbdc52768104140a87aa4653
-https://aragon-dash-movistarplus.emisiondof6.com/dash/aragonor.isml/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3" tvg-group="ESPAÑA", DAZN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b4641842b5824390a7fe8d4ec781031d&key=cd156815ef05dcc9fcc3626e7d52db79
