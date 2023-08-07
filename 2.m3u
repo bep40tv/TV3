@@ -595,9 +595,9 @@ https://tvten-dash-movistarplus.emisiondof6.com/dash/tvtenor.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15b28be7e84448aaff32156b1a101f2&key=99db6ae933c10addacc545151a08144d
 https://dmax-dash-movistarplus.emisiondof6.com/dash/dmaxor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", Clan TVE España
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DQ6tO5V5dK7q7YhUXGFM72BHEh7LiKiefQ&usqp=CAU" group-title="MUSIC" tvg-id="" tvg-name="", MTV 00s
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c85e78b23cff5a99913320c85649bb4d":"67f9e5acab608704392326687788754c","7a5c067a1d565353965d3ca0cbe9f501":"d46e9f54b7477580965adcae3c456186","350cfd7cbc785c48bd5b9ed8fc49c13c":"4546be5bfd3751687e114f3c305e009b"}
-https://tvup-live.secure.footprint.net/clan/clan.mpd
+#KODIPROP:inputstream.adaptive.license_key={"a3d9d4bfa5185516b38e082478f027a3":"508b827a7c12a3c66c2707420a60f2a7","60d7c8bf82e65846b63fe754b6aab293":"070a935db9627a0cf39860ea58905b10","e3723805608f5fc2a443e98577fae7c3":"747e135724d11fc641248527ce70990b"}
+https://tvup-live.secure.footprint.net/vh1/vh1.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
