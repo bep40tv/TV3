@@ -601,11 +601,3 @@ https://dmax-dash-movistarplus.emisiondof6.com/dash/dmaxor.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a3d9d4bfa5185516b38e082478f027a3":"508b827a7c12a3c66c2707420a60f2a7","e3723805608f5fc2a443e98577fae7c3":"747e135724d11fc641248527ce70990b"}
 https://tvup-live.secure.footprint.net/vh1/vh1.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DQ6tO5V5dK7q7YhUXGFM72BHEh7LiKiefQ&usqp=CAU" group-title="MUSIC" tvg-id="" tvg-name="",CMM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"165abc99c7f3516e89dda94fba3742a3":"09a4f5ba53822373af700c358c610cf0","838b28ce3e085a20b526f686c2b71079":"4a974ba6ac40e18f5b25a9dc6899c58f","6dafdcbca18b5451b25bb7d51c4a2fe5":"8ece918cf4c0d524822788c9ab470c79"}
-https://tvup-live.secure.footprint.net/castillalamancha/castillalamancha.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
