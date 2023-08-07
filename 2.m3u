@@ -590,7 +590,7 @@ https://dkiss-dash-movistarplus.emisiondof6.com/dash/dkissor.isml/manifest.mpd
 https://tvten-dash-movistarplus.emisiondof6.com/dash/tvtenor.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DMAX" tvg-group="ESPAÑA",DMAX
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCRMAX" tvg-group="ESPAÑA",DMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15b28be7e84448aaff32156b1a101f2&key=99db6ae933c10addacc545151a08144d
 https://dmax-dash-movistarplus.emisiondof6.com/dash/dmaxor.isml/manifest.mpd
