@@ -586,7 +586,7 @@ https://dkiss-dash-movistarplus.emisiondof6.com/dash/dkissor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TEN" tvg-group="ESPAÑA",TEN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"B3cVFpnoqf/AdZ4daQMW", "kid":"rCvqcOQsSRqG+xK1azE7OQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"2e0777151699e8a9ffc0759e1d690316":"2e0777151699e8a9ffc0759e1d690316"}
 https://tvten-dash-movistarplus.emisiondof6.com/dash/tvtenor.isml/manifest.mpd
 
 
