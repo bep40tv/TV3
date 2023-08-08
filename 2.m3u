@@ -611,3 +611,9 @@ https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=221127ec2d3d407784284fd91d2a379b&key=603e99a0a4c7f74c7b3fa5d656dbadc0
 https://3segdiv-dash-movistarplus.emisiondof6.com/dash/3segdiv.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEZZO" tvg-group="ESPAÑA",Mezzo Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"022d47265cf5437cb20f4df44760d82b":"54c53b33b3cc6603f371ba901546a2ec"}
+https://livehdmezzo-dash-movistarplus.emisiondof6.com/dash/livehdmezzo.isml/manifest.mpd
+
