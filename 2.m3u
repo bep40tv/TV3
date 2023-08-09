@@ -652,11 +652,11 @@ https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
-#EXTINF:0 group-title="SPORT",Arena Sport 1_kkk.m3u?dl=0-230608-105.fail3
+#EXTINF:-1 group-title="SPORT",Arena Sport 1
 https://webudit.cdnhks.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/premiumtv/daddy.php?id=429
-#EXTINF:0 group-title="SPORT",Arena Sport 2_kkk.m3u?dl=0-230608-106.done
+#EXTINF:-1 group-title="SPORT",Arena Sport 2
 https://webudit.cdnhks.lol/lb/premium430/index.m3u8|referer=https://streamservicehd.click/premiumtv/daddy.php?id=430
-#EXTINF:0 group-title="SPORT",Arena Sport 3_kkk.m3u?dl=0-230608-107.done
+#EXTINF:-1 group-title="SPORT",Arena Sport 3
 https://webudit.cdnhks.lol/lb/premium139/index.m3u8|referer=https://streamservicehd.click/premiumtv/daddy.php?id=139
-#EXTINF:0 group-title="SPORT",Arena Sport 4_kkk.m3u?dl=0-230608-108.done
+#EXTINF:-1 group-title="SPORT",Arena Sport 4
 https://webudit.cdnhks.lol/lb/premium432/index.m3u8|referer=https://streamservicehd.click/premiumtv/daddy.php?id=432
