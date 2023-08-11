@@ -238,8 +238,10 @@ https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc457d13e8354e3ba3fe467dfe5315ed&key=3abb7fb8106da89825dab57fd1c2e24e
 https://ellasv-dash-movistarplus.emisiondof6.com/dash/ellasv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" tvg-group="ESPAÃ‘A", M+ LALIGATV
-https://webudit.cdnhks.lol/lb/premium84/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" tvg-group="ESPAÑA",M+ LALIGA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f4ffdb4c283a4967951a14b83cd17e22":"da0fa7897990f3252fcd16cafa614a94"}
+https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" tvg-group="ESPAÃ‘A", DAZN LALIGA
 https://webudit.cdnhks.lol/lb/premium538/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42&Origin=https://ntuplay.xyz&verifypeer=false&Referer=https://ntuplay.xyz/
@@ -622,24 +624,3 @@ https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d0268ddf1676481bad3facdc1ba246c8":"c0efffbc6dd83811a2b626ecdae6fc7f"}
 https://sdmezzo-dash-movistarplus.emisiondof6.com/dash/sdmezzoor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="Sports",Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="Sports",Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium124/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="Sports",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium125/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="Sports",Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium126/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="Sports",Astro SuperSport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium43/index.m3u8
