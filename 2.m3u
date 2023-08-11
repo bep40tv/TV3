@@ -248,7 +248,7 @@ https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"e600aa0b76d549a48d858786597613cb":"bf91772a60899638312a566f73e1a5b5"}
 https://01daznliga-dash-movistarplus.emisiondof6.com/dash/01daznliga.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" tvg-group="ESPAÃ‘A", LALIGAHYPERMOTION TV
+#EXINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" tvg-group="ESPAÃ‘A", LALIGAHYPERMOTION TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57c5f747664148e089c837a299d43a12&key=6b8b6678870c16527a88aa060f531eba
 https://msegdiv-dash-movistarplus.emisiondof6.com/dash/msegdiv.isml/manifest.mpd
@@ -265,17 +265,17 @@ https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
 https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAPIO" tvg-group="ESPAÑA", M+ Liga de Campeones
+#EXINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAPIO" tvg-group="ESPAÑA", M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0d35a933a80c48bc98f17906ee83a56d&key=6461b4d5866add924b6cadc2cf59ce84
 https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-group="ESPAÑA", M+ Liga de Campeones 2
+#EXINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-group="ESPAÑA", M+ Liga de Campeones 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3f7d6e024f5d4a43bb6fb49982642700&key=73efc8cee9d397eb768bde1bb3be0698
 https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" tvg-group="ESPAÑA", M+ Liga de Campeones 3
+#EXINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" tvg-group="ESPAÑA", M+ Liga de Campeones 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63bffc7258f94c3bbc4bc793adf77075&key=21a3dcfa0dd8d7388171acbaddb27037
 https://03campeones-dash-movistarplus.emisiondof6.com/dash/03campeones.isml/manifest.mpd
@@ -531,7 +531,7 @@ https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZNL2" tvg-group="ESPAÑA", DAZN LALIGA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4b583d126cb14c5492d19a2f95d1ba56&key=5d9712e892af2711fa15eafd5398dca4
+#KODIPROP:inputstream.adaptive.license_key={"329c5cf06f7543199cdf3e707b2f6b8e":"8e8c0c4448ae98a7b0e9a9d01c4dc33b"}
 https://02daznliga-dash-movistarplus.emisiondof6.com/dash/02daznliga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP3" tvg-group="ESPAÑA", M+ Deportes 4
@@ -602,12 +602,12 @@ https://dmax-dash-movistarplus.emisiondof6.com/dash/dmaxor.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"a3d9d4bfa5185516b38e082478f027a3":"508b827a7c12a3c66c2707420a60f2a7","e3723805608f5fc2a443e98577fae7c3":"747e135724d11fc641248527ce70990b"}
 https://tvup-live.secure.footprint.net/vh1/vh1.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" tvg-group="ESPAÑA",LALIGAHYPERMOTION TV2
+#EXINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" tvg-group="ESPAÑA",LALIGAHYPERMOTION TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c1acfb5f2604006a2a873e84aa46ad5&key=cd12d71135e45365ae3ae13d246ca540
 https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS3" tvg-group="ESPAÑA",LALIGAHYPERMOTION TV3
+#EXINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS3" tvg-group="ESPAÑA",LALIGAHYPERMOTION TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=221127ec2d3d407784284fd91d2a379b&key=603e99a0a4c7f74c7b3fa5d656dbadc0
 https://3segdiv-dash-movistarplus.emisiondof6.com/dash/3segdiv.isml/manifest.mpd
