@@ -249,8 +249,6 @@ https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 https://01daznliga-dash-movistarplus.emisiondof6.com/dash/01daznliga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" tvg-group="ESPAÃ‘A", LALIGAHYPERMOTION TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57c5f747664148e089c837a299d43a12&key=6b8b6678870c16527a88aa060f531eba
 https://sb3.livemodo.click/1O0YqWXXtjULOt8pqxocxA/1691888135/3138352e3138382e3134382e313137/ff70/playlist.m3u8
 
 
