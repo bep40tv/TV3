@@ -590,3 +590,24 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"82f8e2a17dac44c0a18f660479349c59":"1b144f73e6fefe91cd05f850e2b589d0"}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd?p=web
+
+#EXTINF:-1 tvg-name="m segunda division" group-title="amateur",LALIGAHYPERMOTIONTV
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-name="mundotoro" group-title="amateur",Mundotoro
+http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-name="lcampeon" group-title="amateur",M+ Liga de Canpeones
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-name="Elcano.top ready with Opera VPN" group-title="amateur",M+ Liga de Campeones 2
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-name="lcamp 3" group-title="amateur",M+ Liga de Campeones 3
+http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-name="m segdiv 2" group-title="amateur",LALIGAHYPERMOTION TV2
+http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+#EXTINF:-1 tvg-name="msegdiv 3" group-title="amateur",LALIGAHYPERMOTION TV3
+http://127.0.0.1:6878/ace/getstream?id=59ba45b79152e4599144177b234f6491fc19db53&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
