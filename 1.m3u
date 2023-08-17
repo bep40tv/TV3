@@ -1,8 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DEPORTES" tvg-id="",Ligatvbar
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys" :[{"kty":"oct","kid":"0uFfw52QUqC/Xt8XSYeF6g","k":"VD3dJBcJiC2MuxYsLBG5ZA"},{"kty":" oct","kid":"4siMHOx4VHWrawWhxNFaeA","k":"BriRsZUyEcgoa7MSrQXp5Q"},{"kty":"oct","kid":"RDVDIBD0XdmWfc483hhmSw","k":"DQvy4ud5n/Jsi7grG+Z8ig"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvup-live.secure.footprint.net/castillalamancha/castillalamancha.mpd
