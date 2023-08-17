@@ -467,6 +467,9 @@ https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c692de2478e4b778597781d0fce1435&key=1a1e4760aa222f762222a853e18726c7
 https://espanamtv-dash-movistarplus.emisiondof6.com/dash/espanamtv.isml/manifest.mpd
 
+#EXTINF:-1,SOL Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEZZO" tvg-group="ESPAÑA",Mezzo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d0268ddf1676481bad3facdc1ba246c8&key=c0efffbc6dd83811a2b626ecdae6fc7f
