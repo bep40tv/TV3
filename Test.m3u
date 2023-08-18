@@ -1,5 +1,4 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZvyT7T/Ligadecampeones.png" tvg-group="MOVISTAR", LIGA DE CAMPEONES
-https://api55.tvgratis.live/streams3/master.m3u8?id=890
+#EXTINF:-1, Lcampeon
+https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd?&ck=eyIwZDM1YTkzM2E4MGM0OGJjOThmMTc5MDZlZTgzYTU2ZCI6IjY0NjFiNGQ1ODY2YWRkOTI0YjZjYWRjMmNmNTljZTg0In0=
