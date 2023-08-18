@@ -147,8 +147,6 @@ https://mdocumentales-dash-movistarplus.emisiondof6.com/dash/mdocumentales.isml/
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c54300bb047b4c3e9b7542ff8b766cc7&key=587db84268065340af7ffa24b2184997
 https://mmusica-dash-movistarplus.emisiondof6.com/dash/mmusica.isml/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/RESIST" tvg-group="ESPAÑA",M+ La Resistencia 24h
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=173d991915f24a11b67acd0c75914370&key=4ef8245f720013854f096cfffd8e1028
@@ -212,7 +210,6 @@ https://tdt13tv-dash-movistarplus.emisiondof6.com/dash/tdt13tv.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a14093af411c40d9924ee0d86bbc18b1&key=b9b402ff108bf3e4a4deebac31c435e5
 https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
 
-
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FDFIC" tvg-group="ESPAÑA", Factoría de Ficción
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e247fe1683ef4a28817d1c9c1fe458fc&key=1e74cdc3ccc822e19c141820332ddcd4
@@ -254,10 +251,6 @@ https://01daznliga-dash-movistarplus.emisiondof6.com/dash/01daznliga.isml/manife
 https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
 
 #EXTINF:-1,M+ Liga de Campeones
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/890
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP" tvg-group="ESPAÑA", M+ Deportes
