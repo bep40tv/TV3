@@ -251,10 +251,12 @@ https://01daznliga-dash-movistarplus.emisiondof6.com/dash/01daznliga.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e5fad66f199041b1a52dc4941ef958e0&key=3ada35c2bdf9cd238bbdd704f7807946
 https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-group="ESPAÃ‘A", M+ LALIGATV 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0efb2353a724567b20c9cf99d8960d0&key=da8df9698f81cf4972b40115ea8f3716
-https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
+#EXTINF:-1,M+ Liga de Campeones
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/890
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP" tvg-group="ESPAÑA", M+ Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -534,6 +536,11 @@ https://dazn3-dash-movistarplus.emisiondof6.com/dash/dazn3.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=436c2164392e460dae41420f53f9f396&key=8e0ea1289135355f0aef59266bd0070e
 https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-group="ESPAÃ‘A", M+ LALIGATV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0efb2353a724567b20c9cf99d8960d0&key=da8df9698f81cf4972b40115ea8f3716
+https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG3" tvg-group="ESPAÑA", M+ LALIGATV 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
