@@ -250,9 +250,6 @@ https://01daznliga-dash-movistarplus.emisiondof6.com/dash/01daznliga.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e5fad66f199041b1a52dc4941ef958e0&key=3ada35c2bdf9cd238bbdd704f7807946
 https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
 
-#EXTINF:-1,M+ Liga de Campeones
-https://v3.playerlatino.live/stream/m3u8/890
-
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP" tvg-group="ESPAÑA", M+ Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f18c39b70f8146d9a79e9dc0c329464d&key=646fd34f890a5cdb655bf9a97af06d47
