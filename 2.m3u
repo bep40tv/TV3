@@ -544,6 +544,13 @@ https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68cdb7d1cad64977a5abd94a214b3e31&key=1b227005d4c3efd148780296bf4d75fe
 https://04campeones-dash-movistarplus.emisiondof6.com/dash/04campeones.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3" tvg-group="ESPAÑA",M+ Liga de Campeones 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=02ea7dfe72d049e89c8f8e1d79aebfb8&key=758b9b273b17c9a9407410ab03780eb3
+https://05campeones-dash-movistarplus.emisiondof6.com/dash/05campeones.isml/manifest.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZNL2" tvg-group="ESPAÑA", DAZN LALIGA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=329c5cf06f7543199cdf3e707b2f6b8e&key=8e8c0c4448ae98a7b0e9a9d01c4dc33b
