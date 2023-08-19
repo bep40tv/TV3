@@ -564,6 +564,10 @@ https://07campeones-dash-movistarplus.emisiondof6.com/dash/07campeonesor.isml/ma
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b0bf4c0bff6d4ea9ad5ea72a6d4dc9ee&key=90935c2f1bb4b608e27157eaed9e30df
 https://08campeones-dash-movistarplus.emisiondof6.com/dash/08campeonesor.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3" tvg-group="ESPAÑA",M+ Liga de Campeones 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2e1efda12a6c4ce1a0e54d4dbd45affc&key=d512c2291ea628b12ef9e222abf3adfb
+https://09campeones-dash-movistarplus.emisiondof6.com/dash/09campeonesor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZNL2" tvg-group="ESPAÑA", DAZN LALIGA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
