@@ -556,7 +556,7 @@ https://06campeones-dash-movistarplus.emisiondof6.com/dash/06campeonesor.isml/ma
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP6" tvg-group="ESPAÑA",M+ Liga de Campeones 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://07campeones-dash-movistarplus.emisiondof6.com/dash/07campeonesor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2510794e9fac4719ba5fdcfd40bb2bd8&key=ea50b2fb9edd318eb88c640f98d0c478
 https://07campeones-dash-movistarplus.emisiondof6.com/dash/07campeonesor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP7" tvg-group="ESPAÑA",M+ Liga de Campeones 8
