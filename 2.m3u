@@ -245,6 +245,11 @@ https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e600aa0b76d549a48d858786597613cb&key=bf91772a60899638312a566f73e1a5b5
 https://01daznliga-dash-movistarplus.emisiondof6.com/dash/01daznliga.isml/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTINF:-1,LALIGAHYPERMOTION TV
+https://webudit.cdndac.lol/lb/premium539/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG1" tvg-group="ESPAÃ‘A", M+ LALIGATV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e5fad66f199041b1a52dc4941ef958e0&key=3ada35c2bdf9cd238bbdd704f7807946
