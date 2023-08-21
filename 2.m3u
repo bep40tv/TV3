@@ -638,10 +638,3 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd?p=web
-
-#EXTINF:-1 tvg-id="odisea.es" tvg-logo="https://i.imgur.com/l3Hpfvk.png", Odisea España
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5b1e9d4c5a17582884b280ce45c0767d":"c6e71a11ed51b5df35aff8df8bd86ca1","4cc5e4ff84d35545a6fddf62e998faf1":"5d204b94e2ffd9074534d2c754cea5c6","153512a6df715d37a9c253b568b4d971":"1d58ee91e0dd18bc756ccb50225ba3a8"}
-https://tvup-live.secure.footprint.net/odisea/odisea.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
