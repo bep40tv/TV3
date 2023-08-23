@@ -64,6 +64,21 @@ https://moriginales-dash-movistarplus.emisiondof6.com/dash/moriginales.isml/mani
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e3e0b0471630497eb81fc17f39a52218&key=4f44558664e3efc1811b7ce88beb597a
 https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7471_3F0_1_C00000_0_0_0.png" tvg-group="ENTRETENIMIENTO", M+ Documentales
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0e8ad05747040ca9887479536898d0a&key=f0bce7c3a14428b9e2364612e3822a6e
+https://mdocumentales-dash-movistarplus.emisiondof6.com/dash/mdocumentales.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MONFIR" tvg-group="ENTRETENIMIENTO", M+ Música
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c54300bb047b4c3e9b7542ff8b766cc7&key=587db84268065340af7ffa24b2184997
+https://mmusica-dash-movistarplus.emisiondof6.com/dash/mmusica.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/RESIST" tvg-group="ESPAÑA",M+ La Resistencia 24h
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=173d991915f24a11b67acd0c75914370&key=4ef8245f720013854f096cfffd8e1028
+https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" tvg-group="", M+ Clásicos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3167f5b1dca94bd39465b3a8a4295069&key=ec9c5d1a5435ccf47231105e7d31c0ba
@@ -73,7 +88,6 @@ https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95af74d5fb594fd58b856a6d743cf77f&key=6494036d424881de28c0a7c9f3a1a19a
 https://accion-dash-movistarplus.emisiondof6.com/dash/accion.isml/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME" tvg-group="ESPAÑA", M+ Comedia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -85,12 +99,6 @@ https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e0e8500c68184ce38f4295245ed31cfe&key=65b29f96ff077d4576654ec5be006cf9
 https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
 
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" tvg-group="ESPAÑA", M+ Cine Español
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aab0fcd931144e489fff46f80fa98098&key=d68713bd9786b2c2cf45b0478ee1e91f
-https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSUSP" tvg-group="ENTRETENIMIENTO", M+ Suspense
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f1402c9cff644e849da55cfb92f2467b&key=ff12458374e6f01c3b710631df20badb
@@ -100,6 +108,11 @@ https://msuspense-dash-movistarplus.emisiondof6.com/dash/msuspense.isml/manifest
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=535ec7ec6ef6458e92bf953715a9b883&key=3bf44acc04bba5479207d28b28edef78
 https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" tvg-group="ESPAÑA", M+ Cine Español
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aab0fcd931144e489fff46f80fa98098&key=d68713bd9786b2c2cf45b0478ee1e91f
+https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TCM" tvg-group="ESPAÑA", TCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -135,22 +148,6 @@ https://somos-dash-movistarplus.emisiondof6.com/dash/somosor.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82de8500b55a4a6aa18a7d97b525c93f&key=f1beb39f5d8fcf996e93287096eb0d25
 https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7471_3F0_1_C00000_0_0_0.png" tvg-group="ENTRETENIMIENTO", M+ Documentales
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0e8ad05747040ca9887479536898d0a&key=f0bce7c3a14428b9e2364612e3822a6e
-https://mdocumentales-dash-movistarplus.emisiondof6.com/dash/mdocumentales.isml/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MONFIR" tvg-group="ENTRETENIMIENTO", M+ Música
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c54300bb047b4c3e9b7542ff8b766cc7&key=587db84268065340af7ffa24b2184997
-https://mmusica-dash-movistarplus.emisiondof6.com/dash/mmusica.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/RESIST" tvg-group="ESPAÑA",M+ La Resistencia 24h
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=173d991915f24a11b67acd0c75914370&key=4ef8245f720013854f096cfffd8e1028
-https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/LaQueSeAvecina__1_-removebg-preview.png",LQSA 24h
 https://cdn7.lqsa.es:443/hls/0/stream.m3u8
