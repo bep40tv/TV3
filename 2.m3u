@@ -501,6 +501,9 @@ https://24horas-dash-movistarplus.emisiondof6.com/dash/24horasor.isml/manifest.m
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vLEeacm5vnyTh/+qBmwL1A","kid":"7huajKxCWQ2Hrzimyy4wvg"},{"kty":"oct","k":"YxH1Oz+T0XMOwiLRoyiV5w","kid":"NmbUR25iXdSP0FjcHLsd2g"},{"kty":"oct","k":"LcIDOn0hhazrkcM+8GJ1BA","kid":"geNMPzy5WByWMaPduglLwA"}],"type":"temporary"}
 https://tvup-live.secure.footprint.net/bbcworldnews/bbcworldnews.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1,CNN International Europe
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/INTECO" tvg-group="ESPAÑA", El Toro TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0d43fb49639b4ac3a53251848bceef3c&key=4b70c8291cecaad4350882d1a64aea96
