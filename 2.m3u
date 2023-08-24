@@ -494,6 +494,13 @@ https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6e73d7c4f4b24a19929cb5e4bfd23524&key=80cc5ee67dfbdb57e3c3a4308173d48b
 https://24horas-dash-movistarplus.emisiondof6.com/dash/24horasor.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="BBCWorldNewsLatinAmerica.uk", tvg-logo="https://i.imgur.com/vxGfaA0.png" ,BBC World News Europe
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vLEeacm5vnyTh/+qBmwL1A","kid":"7huajKxCWQ2Hrzimyy4wvg"},{"kty":"oct","k":"YxH1Oz+T0XMOwiLRoyiV5w","kid":"NmbUR25iXdSP0FjcHLsd2g"},{"kty":"oct","k":"LcIDOn0hhazrkcM+8GJ1BA","kid":"geNMPzy5WByWMaPduglLwA"}],"type":"temporary"}
+https://tvup-live.secure.footprint.net/bbcworldnews/bbcworldnews.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/INTECO" tvg-group="ESPAÑA", El Toro TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0d43fb49639b4ac3a53251848bceef3c&key=4b70c8291cecaad4350882d1a64aea96
