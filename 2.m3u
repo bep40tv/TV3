@@ -236,6 +236,11 @@ https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd?p=web
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://protect.71v7s8rt65.ru/
+#EXTINF:-1,LaLiga TV Hypermotion
+https://cdn3.cdnhks.ru/live/iVUR0y7A90Dp8oxMZa39UyQYJhTGwX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG1" tvg-group="ESPAÃ‘A",M+ LaLiga TV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e5fad66f199041b1a52dc4941ef958e0&key=3ada35c2bdf9cd238bbdd704f7807946
