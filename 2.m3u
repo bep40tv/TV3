@@ -148,6 +148,9 @@ https://somos-dash-movistarplus.emisiondof6.com/dash/somosor.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82de8500b55a4a6aa18a7d97b525c93f&key=f1beb39f5d8fcf996e93287096eb0d25
 https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manifest.mpd
 
+#EXTINF:-1,BOM Cine
+http://bigo.ws/Sessions/64ecc0cfd07a90171157ec5f?MacAddress=12:12:12:12:12&SerialNumber=unknown&Code=4444455555&Tag=eyJhbGciOiJIUzI1NiJ9.eyJuYW1lIjoiNzEyZDUwMWItZGUxYi00NWFjLTgzYzgtYzQ0MWZiMjNjMmU0In0.hos6Y5jALKymHbIpwjUkkXsTHocJDhjMYxwD7axITbM&Category=&SubCategory=&Movies=&EpisodeID=64ecc0cfd07a90171157ec5f&id=64ecc0cfd07a90171157ec5f
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/LaQueSeAvecina__1_-removebg-preview.png",LQSA 24h
 https://cdn7.lqsa.es:443/hls/0/stream.m3u8
 
