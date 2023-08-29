@@ -567,15 +567,8 @@ https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cb1d2f2c3e14fa98692110dd1604bbc&key=86a23888fba0582be2af7db26c01d945
 https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 
-#EXINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" tvg-group="ESPAÑA",LALIGAHYPERMOTION TV2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c1acfb5f2604006a2a873e84aa46ad5&key=cd12d71135e45365ae3ae13d246ca540
-https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
-
-#EXINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS3" tvg-group="ESPAÑA",LALIGAHYPERMOTION TV3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=221127ec2d3d407784284fd91d2a379b&key=603e99a0a4c7f74c7b3fa5d656dbadc0
-https://3segdiv-dash-movistarplus.emisiondof6.com/dash/3segdiv.isml/manifest.mpd
+#EXTINF:-1,LaLiga TV Hypermotion 3
+http://50.7.143.2:8000/live/vi322161/TsvubUp6uu/489190.ts?token=H0EMV0RQRl8UBFwFAVtTXARWU1QAVQJSA1NSDAUOAwBQAlJSU1oBAQZDFRZAFkBdBw48WFASDVANDlcBUxQXRhcGFmleXEZfFFAADAZTARpKQRdYWVUVXgQBXwtQCgEEUltIFEdRAEcMD0xYX04QXR4XBkNaUVs7UVIQUQBdFwkKFghaGxoLC2kFXFlSDFYaXEFSExgSXhdFFVxWFlRZH0YBDUJFWRAAFFtXQV8OHhoFDBZfQEJORg8VI2tBFBdWHBcBWERRCwsUWxtAQEAeGg8QPENRQ0MWUFYLXREaDxFUQUgUWlkcOlUOV1pWAUZRCQ0QEw4SBkYZFQtXDVFBXBY8FF9TGl4LQw1VSQ==
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP3" tvg-group="ESPAÑA",M+ Liga de Campeones 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
