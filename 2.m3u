@@ -236,6 +236,9 @@ https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd?p=web
 
+#EXTINF:-1,LaLiga Hypermotion TV
+http://50.7.136.130:8000/live/vi322161/TsvubUp6uu/320785.ts?token=H0EMV0RQRl8UBAlRAABRAQNRVAgDBg4BA1IHCgcMDVYFBQcCBVlWBFdDFRZAFkBdBw48WFASDVcHB1EAVhQXRhcGFmleXEZfFFAADAZTARpKQRdYWVUVXgQBXwtQCgEAXVVIFEdRAEcMQwoFAVACGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBomaxcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYEFUoaDldbWhAMFmlHUQBHDEMNBgNREEU=
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG1" tvg-group="ESPAÃ‘A",M+ LaLiga TV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e5fad66f199041b1a52dc4941ef958e0&key=3ada35c2bdf9cd238bbdd704f7807946
