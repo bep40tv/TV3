@@ -41,7 +41,7 @@ https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 
 #EXTINF:-1, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png" tvg-group="TDT" ,CMM TV
-https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+http://185.233.16.151:8000/live/vi322161/TsvubUp6uu/295503.ts?token=H0EMV0RQRl8UVglRBVJXAFEHB1cBAVFcBQdVXlEBVgZQWlAFDgoHUw5DFRZAFkBdBw48WFASDVYMAlMIUBQXRhcGFmleXEZfFFAADAZTARpKQRdYWVUVXgQBXwtQCgAEUVpIFEdRAEcMQwoCC1cAGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBomaxcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYEFUoaDldbWhAMFmlHUQBHDEMKAgVbAhob
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1" tvg-group="ENTRETENIMIENTO", M+ Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
