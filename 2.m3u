@@ -43,9 +43,6 @@ https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 #EXTINF:-1, tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png" tvg-group="TDT" ,Castilla la Mancha TV
 http://185.233.16.151:8000/live/vi322161/TsvubUp6uu/295503.ts?token=H0EMV0RQRl8UVglRBVJXAFEHB1cBAVFcBQdVXlEBVgZQWlAFDgoHUw5DFRZAFkBdBw48WFASDVYMAlMIUBQXRhcGFmleXEZfFFAADAZTARpKQRdYWVUVXgQBXwtQCgAEUVpIFEdRAEcMQwoCC1cAGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBomaxcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYEFUoaDldbWhAMFmlHUQBHDEMKAgVbAhob
 
-#EXTINF:-1,SELEKT
-http://50.7.188.90:8000/live/vi322161/TsvubUp6uu/405167.ts?token=H0EMV0RQRl8UAgkGUFdWXV8AW1cNBgJRBgVQD1EKUQJXWgAPBAwFAQNDFRZAFkBdBw48WFASDVAFAlcOVBQXRhcGFmleXEZfFFAADAZTARpKQRdYWVUVXgQBXwtQCgICXFZIFEdRAEcMQwgHBFQCGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBomaxcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYEFUoaDldbWhAMFmlHUQBHDEMIBwRWARob
-
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1" tvg-group="ENTRETENIMIENTO", M+ Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9fb1f0638d3f4aeca37a3c7a6af2fef6&key=c8d3d2725ca7fb23b0654830aa322f2a
