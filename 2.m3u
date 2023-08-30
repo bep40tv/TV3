@@ -256,6 +256,10 @@ https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.ism
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a9379aeb682e424b9d30e38e571447a6&key=fcdf427820f671502d15c9e298025d3d
 https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/manifest.mpd
 
+#EXTINF:-1,M+ Liga de Campeones 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9878583b43714da68b4c1bbfc7642ee3&key=777e2a87439c1b28c9015fca5bffa264
+https://03campeones-dash-movistarplus.emisiondof6.com/dash/03campeones.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP" tvg-group="ESPAÑA", M+ Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
