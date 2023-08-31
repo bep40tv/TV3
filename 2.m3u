@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVE" tvg-group="ESPAÃ‘A", LA 1
+#EXTINF:0 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" tvg-group="ESPAÃ‘A", LA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=14fc0e3b249a43faa52fc69279e77cab&key=71c987df089eda046faf592931e84a5c
 https://tvela1-dash-movistarplus.emisiondof6.com/dash/tvela1.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2" tvg-group="TDT", LA 2
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" tvg-group="TDT", LA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=843f979b605b4df3aeef459fea7c5287&key=208ee6c34633c93aa9abb3fdaa83818a
 https://la2-dash-movistarplus.emisiondof6.com/dash/la2.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/A3" tvg-group="TDT", Antena 3
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/A3" tvg-group="TDT", Antena 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7bed9527b60a44dc8fbbe984568253a6&key=b62d1096db64d3ce09120f4b98472f22
 https://antena3-dash-movistarplus.emisiondof6.com/dash/antena3.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4" tvg-group="TDT", Cuatro
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" tvg-group="TDT", Cuatro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=26a7ba3841ad411ea13a9fb9d1470ea9&key=210006fb5fdcae5a7d36051de31911b4
 https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
