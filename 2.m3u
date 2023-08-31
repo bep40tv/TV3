@@ -221,6 +221,11 @@ https://neox-dash-movistarplus.emisiondof6.com/dash/neoxor.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=14baf540c86b48e4954459ba0e76dea7&key=2bb673f117ec9f14837b26bbe61aace6
 https://a3series-dash-movistarplus.emisiondof6.com/dash/a3series.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG3" tvg-group="ESPAÑA",Info
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cb1d2f2c3e14fa98692110dd1604bbc&key=86a23888fba0582be2af7db26c01d945
+https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7508_420_1_C00000_0_0_0.png" tvg-group="ESPAÑA", M+ Vamos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=77b7e5e8b6354bf8925af0ddd24afebd&key=635ed494d990466029b9681c7d981143
@@ -565,11 +570,6 @@ https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0efb2353a724567b20c9cf99d8960d0&key=da8df9698f81cf4972b40115ea8f3716
 https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG3" tvg-group="ESPAÑA", M+ LALIGATV 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cb1d2f2c3e14fa98692110dd1604bbc&key=86a23888fba0582be2af7db26c01d945
-https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP3" tvg-group="ESPAÑA",M+ Liga de Campeones 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
