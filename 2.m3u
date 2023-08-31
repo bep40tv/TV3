@@ -118,7 +118,7 @@ https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d239eaec11d44dc49e8f74af0e7330a7&key=b791a8447d030d7855f9e231886cb973
 https://tcm-dash-movistarplus.emisiondof6.com/dash/tcm.isml/manifest.mpd
 
-#EXTINF:-1, Hollywood
+#EXTINF:-1,Canal Hollywood
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=860293580cdc418db2c1190b28b28889&key=dcc703e3cd2b9f67379c1165596cc598
 https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest.mpd
@@ -391,7 +391,7 @@ https://buenviaje-dash-movistarplus.emisiondof6.com/dash/buenviajeor.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4074ed3a5d3541d68b9a06a391c519ea&key=0215a508f3925cb98ab7be64f7e55aba
 https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
 
-#EXTINF:-1, Canal Decasa
+#EXTINF:-1,Decasa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0a7489f77bde4f62867a3bad923e5498&key=452f2f349202408abb0936c92bd20b76
 https://decasa-dash-movistarplus.emisiondof6.com/dash/decasa.isml/manifest.mpd
@@ -471,7 +471,7 @@ https://disneychannel-dash-movistarplus.emisiondof6.com/dash/disneychannel.isml/
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=38132dfbd1eb40738d9a474f7e0de4e3&key=2460d0660fe5e678f2158253411a6f35
 https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
 
-#EXTINF:-1, Clan TVE
+#EXTINF:-1, Clan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e2c26542852c4333aec68e83844f3bb1&key=e6fe84029e6e2e0e2038cefe1b5daa85
 https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
@@ -548,7 +548,7 @@ https://tdtcsur-dash-movistarplus.emisiondof6.com/dash/tdtcsur.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8cf1d0c4d3fb4155812004fe79db1de4&key=a85875f6f69531ad920a2f576cba44c6
 https://tdttv3-dash-movistarplus.emisiondof6.com/dash/tdttv3.isml/manifest.mpd
 
-#EXTINF:-1, TVG -TV Galicia
+#EXTINF:-1, TVG-TV Galicia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5756b6c51b12406e97f661e250109efa&key=de624a16c7af2f51e19fe1c093c5b333
 https://tdt1galicia-dash-movistarplus.emisiondof6.com/dash/tdt1galicia.isml/manifest.mpd
