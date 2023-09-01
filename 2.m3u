@@ -371,10 +371,12 @@ https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0e79a01f8f1f42588f79b3e07403ec84&key=3efefd3e15e5edba00be6673363b831c
 https://discovery-dash-movistarplus.emisiondof6.com/dash/discoveryor.isml/manifest.mpd
 
-#EXTINF:-1, Odisea
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cda51c80be546c79fc1b3279a1cbb70&key=f15bd75ce1f4ef04ed42df4a83a4de5a
-https://odisea-dash-movistarplus.emisiondof6.com/dash/odiseaor.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l3Hpfvk.png", Odisea
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b1e9d4c5a17582884b280ce45c0767d:c6e71a11ed51b5df35aff8df8bd86ca1,4cc5e4ff84d35545a6fddf62e998faf1:5d204b94e2ffd9074534d2c754cea5c6,153512a6df715d37a9c253b568b4d971:1d58ee91e0dd18bc756ccb50225ba3a8
+https://tvup-live.secure.footprint.net/odisea/odisea.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1, AMC Break
 #KODIPROP:inputstream.adaptive.license_type=clearkey
