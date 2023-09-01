@@ -742,8 +742,3 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd|User-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8d0506523d95fc082d6caef60e84979&key=69992fd2d7b9211d41ecc2243803e87c
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/350px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" ,SJDJ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c08f61b51d004738bdc8ff9d8e667304:e4660be425d6628e1a6e2903bc40486b
-https://hls-m008.live-lv3.canalplus-cdn.net/live/disk/beinsportsmax6-hd/dash-fhddvr/beinsportsmax6-hd.mpd
