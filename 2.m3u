@@ -371,7 +371,7 @@ https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0e79a01f8f1f42588f79b3e07403ec84&key=3efefd3e15e5edba00be6673363b831c
 https://discovery-dash-movistarplus.emisiondof6.com/dash/discoveryor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l3Hpfvk.png", Odisea España
+#EXTINF:-1,Odisea
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
