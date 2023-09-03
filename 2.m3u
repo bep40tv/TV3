@@ -675,7 +675,7 @@ https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/m
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a4dd5fa8c52b487d9f2ba74955ef63c2":"63c691da72b78530a67ce8b5ea267208","e43a6afd903c45bdbd339c48351de976":03e12e9a1eb010b03d11deab89d4e2b2","12e86339c7254a6b8cdb7333a78e96b9":"791babfa17e59b741e2d359455b0abac"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pN1fqMUrSH2fK6dJVe9jwg","k":"Y8aR2nK3hTCmfOi16iZyCA"},{"kty":"oct","kid":"EuhjOcclSmuM23Mzp46WuQ","k":"eRur-hflm3QeLTWUVbCrrA"},{"kty":"oct","kid":"5Dpq/ZA8Rb29M5xINR3pdg==","k":"A+Eumh6wELA9Ed6ridTisg=="}]}
 https://dsh-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1,BEIN SPORTS 2 FRA
