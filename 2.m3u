@@ -362,6 +362,13 @@ https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manife
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7OzIJYf7Vm2piMBDUmy/8w","k":"cuRymcI/B+wkbg8XUiaklw"},{"kty":"oct","kid":"RvjvQ2rCXSKHsNMO1pVUIQ","k":"duGtRKTnrGZ7Wn6g1/aiTw"}]}
 https://tvup-live.secure.footprint.net/betistv/betistv.mpd
 
+#EXTINF:-1,Sevilla FC Televisión
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7OzIJYf7Vm2piMBDUmy/8w","k":"cuRymcI/B+wkbg8XUiaklw"},{"kty":"oct","kid":"RvjvQ2rCXSKHsNMO1pVUIQ","k":"duGtRKTnrGZ7Wn6g1/aiTw"}]}
+https://tvup-live.secure.footprint.net/sfctelevision/sfctelevision.mpd
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CAZPES" ch-number="77" , Caza y Pesca
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e08814a33e4842d29cb6d4cf97af6f36&key=4d40de76240002f6f0dfbccd5e145476
