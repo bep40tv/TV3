@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,Iberalia
+#EXTINF:-1,cmm
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xrtXXBKRUp646sJ3u6oVjA","k":"Vn4SOpfiTWHimN5L+PT/3Q"},{"kty":"oct","kid":"CdUsLr5RXNGyYisCpjFG9Q","k":"HQEOWvs2zqnkkKtz9MbhYA"}]}
-https://tvup-live.secure.footprint.net/iberalia/iberalia.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"g4sozj4IWiC1JvaGwrcQeQ","k":"zIyhRqkf2sjiFI5iY6t/DA"},{"kty":"oct","kid":"Flq8mcfzUW6J3alPujdCow","k":"7kFDOH7Zzadof6IPA0fh3w"},{"kty":"oct","kid":"ba/cvKGLVFGyW7fVHEov5Q","k":"gxQFLrc7CcgDzCi+kc5X0w"}]}
+https://tvup-live.secure.footprint.net/castillalamancha/castillalamancha.mpd
