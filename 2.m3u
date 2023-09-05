@@ -530,8 +530,12 @@ https://espanamtv-dash-movistarplus.emisiondof6.com/dash/espanamtv.isml/manifest
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f9bdeacdf1f04253afbadc6c018029c5&key=e66bb689e3b7eef63ae3476952a718de
 https://00smtv-dash-movistarplus.emisiondof6.com/dash/00smtvor.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="122"  tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/SolMusica-removebg-preview.png",SOL Música
-https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1,Sol Música
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NZwwjrmAVB+JBIPkP7gfzg","k":"v4h2qJ/Vb43bCHu1373jvA"},{"kty":"oct","kid":"rA5n2OcVXGSyeOeJgXzbIQ","k":"KOZIvUK/lg403zO9tp/vDw"}]}
+https://tvup-live.secure.footprint.net/sol-musica/sol-musica.mpd
 
 #EXTINF:-1 ch-number="123" ,Mezzo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
