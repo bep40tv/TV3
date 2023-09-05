@@ -41,7 +41,11 @@ https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 
 #EXTINF:-1,Castilla la Mancha TV
-https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"g4sozj4IWiC1JvaGwrcQeQ","k":"zIyhRqkf2sjiFI5iY6t/DA"},{"kty":"oct","kid":"Flq8mcfzUW6J3alPujdCow","k":"7kFDOH7Zzadof6IPA0fh3w"},{"kty":"oct","kid":"ba/cvKGLVFGyW7fVHEov5Q","k":"gxQFLrc7CcgDzCi+kc5X0w"}]}
+https://tvup-live.secure.footprint.net/castillalamancha/castillalamancha.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV1" ch-number="12" , M+ Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -356,7 +360,7 @@ https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e08814a33e4842d29cb6d4cf97af6f36&key=4d40de76240002f6f0dfbccd5e145476
 https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
 
-#EXTINF:-1,Iberalia TV
+#EXTINF:-1 ch-number="78" ,Iberalia TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
