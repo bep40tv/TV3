@@ -6,3 +6,10 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OVs14RxiXAihDaAppz2lrA","k":"Gqm4zOKgGUCTPHMQMcfkng"},{"kty":"oct","kid":"2EA/wmO5WcGqIwO1oTo7AA","k":"mKbZmeLqWZN0PbJgiNR2eA"},{"kty":"oct","kid":"OVs14RxiXAihDaAppz2lrA","k":"Gqm4zOKgGUCTPHMQMcfkng"}]}
 https://tvup-live.secure.footprint.net/mundotoros/mundotoros.mpd
+
+#EXTINF:-1,Betis TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7OzIJYf7Vm2piMBDUmy/8w","k":"cuRymcI/B+wkbg8XUiaklw"},{"kty":"oct","kid":"RvjvQ2rCXSKHsNMO1pVUIQ","k":"duGtRKTnrGZ7Wn6g1/aiTw"}]}
+https://tvup-live.secure.footprint.net/betistv/betistv.mpd
