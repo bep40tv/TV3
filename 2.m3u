@@ -367,6 +367,13 @@ https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manife
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xrtXXBKRUp646sJ3u6oVjA","k":"Vn4SOpfiTWHimN5L+PT/3Q"},{"kty":"oct","kid":"CdUsLr5RXNGyYisCpjFG9Q","k":"HQEOWvs2zqnkkKtz9MbhYA"}]}
 https://tvup-live.secure.footprint.net/iberalia/iberalia.mpd
 
+#EXTINF:-1,OneToro TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OVs14RxiXAihDaAppz2lrA","k":"Gqm4zOKgGUCTPHMQMcfkng"},{"kty":"oct","kid":"2EA/wmO5WcGqIwO1oTo7AA","k":"mKbZmeLqWZN0PbJgiNR2eA"},{"kty":"oct","kid":"OVs14RxiXAihDaAppz2lrA","k":"Gqm4zOKgGUCTPHMQMcfkng"}]}
+https://tvup-live.secure.footprint.net/mundotoros/mundotoros.mpd
+
 #EXTINF:-1 ch-number="80" , Ubeat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a13ec19f39a47da96d677511edc0116&key=17711d7880e6a9d896579125d33427bf
