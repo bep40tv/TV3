@@ -30,12 +30,12 @@ https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=81cd66b57f22429b9996220256374ed4&key=233f8d8ebcd73817b03cd90936c22303
 https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
 
-#EXTINF:-1, Movistar Plus+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS", Movistar Plus+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8468eebb95d8418ca85df6a2381fb64d&key=008748a6acbbb3491bf5dd49355d8207
 https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 
-#EXTINF:-1, M+ Vamos HD
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/VAMOSD", M+ Vamos HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=77b7e5e8b6354bf8925af0ddd24afebd&key=635ed494d990466029b9681c7d981143
 https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
@@ -43,72 +43,72 @@ https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 #EXTINF:-1,Castilla la Mancha TV
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
-#EXTINF:-1 ch-number="12" , M+ Cine
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV1" ch-number="12" , M+ Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9fb1f0638d3f4aeca37a3c7a6af2fef6&key=c8d3d2725ca7fb23b0654830aa322f2a
 https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="13" , M+ Series
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV2" ch-number="13" , M+ Series
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=09f31fd3fc584029b310e8e4891e194c&key=7aed71dceea44af72d944c3b57b009ae
 https://m1series-dash-movistarplus.emisiondof6.com/dash/m1series.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="14" , M+ Originales
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MORIG" ch-number="14" , M+ Originales
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=13075cef94e24ca29b4ef5614a1a1192&key=93488c3497a7c68486187db56efaba49
 https://moriginales-dash-movistarplus.emisiondof6.com/dash/moriginales.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="15" , M+ Cracks
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MCFUT" ch-number="15" , M+ Cracks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e3e0b0471630497eb81fc17f39a52218&key=4f44558664e3efc1811b7ce88beb597a
 https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="17" , M+ Documentales
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MDOC" ch-number="17" , M+ Documentales
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0e8ad05747040ca9887479536898d0a&key=f0bce7c3a14428b9e2364612e3822a6e
 https://mdocumentales-dash-movistarplus.emisiondof6.com/dash/mdocumentales.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="18" , M+ Música
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MONFIR" ch-number="18" , M+ Música
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c54300bb047b4c3e9b7542ff8b766cc7&key=587db84268065340af7ffa24b2184997
 https://mmusica-dash-movistarplus.emisiondof6.com/dash/mmusica.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="19" ,La Resistencia 24h
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/RESIST" ch-number="19" ,La Resistencia 24h
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=173d991915f24a11b67acd0c75914370&key=4ef8245f720013854f096cfffd8e1028
 https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="20" , M+ Clásicos
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MCLAS" ch-number="20" , M+ Clásicos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3167f5b1dca94bd39465b3a8a4295069&key=ec9c5d1a5435ccf47231105e7d31c0ba
 https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="21" , M+ Acción
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPACCI" ch-number="21" , M+ Acción
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95af74d5fb594fd58b856a6d743cf77f&key=6494036d424881de28c0a7c9f3a1a19a
 https://accion-dash-movistarplus.emisiondof6.com/dash/accion.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="22" , M+ Comedia
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPCOME" ch-number="22" , M+ Comedia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ecbde3400f434d138cface02a8ab7cab&key=14bbd81ac0b8e30cdc1d7b6645e7579a
 https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="23" , M+ Drama
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPCOLE" ch-number="23" , M+ Drama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e0e8500c68184ce38f4295245ed31cfe&key=65b29f96ff077d4576654ec5be006cf9
 https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="24" , M+ Suspense
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MSUSP" ch-number="24" , M+ Suspense
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f1402c9cff644e849da55cfb92f2467b&key=ff12458374e6f01c3b710631df20badb
 https://msuspense-dash-movistarplus.emisiondof6.com/dash/msuspense.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="25" , M+ Indie
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MINDI" ch-number="25" , M+ Indie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=535ec7ec6ef6458e92bf953715a9b883&key=3bf44acc04bba5479207d28b28edef78
 https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="26" , M+ Cine Español
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCESP" ch-number="26" , M+ Cine Español
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aab0fcd931144e489fff46f80fa98098&key=d68713bd9786b2c2cf45b0478ee1e91f
 https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
@@ -231,7 +231,7 @@ https://a3series-dash-movistarplus.emisiondof6.com/dash/a3series.isml/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cb1d2f2c3e14fa98692110dd1604bbc&key=86a23888fba0582be2af7db26c01d945
 https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="53" , M+ Vamos
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/VAMOSD" ch-number="53" , M+ Vamos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=77b7e5e8b6354bf8925af0ddd24afebd&key=635ed494d990466029b9681c7d981143
 https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
@@ -266,47 +266,47 @@ https://02daznliga-dash-movistarplus.emisiondof6.com/dash/02daznliga.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=2fc77c5e033f45ca874fdc0f28e79200:31052a3d0c5cd70934e5139ae5790235
 https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="60" ,M+ Liga de Campeones
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO" ch-number="60" ,M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0cc9c1da4e004c62a3341b8e6e600aed&key=71f8bfd2c296118faf1132f638a8894a
 https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="61" ,M+ Liga de Campeones 2
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1" ch-number="61" ,M+ Liga de Campeones 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a9379aeb682e424b9d30e38e571447a6&key=fcdf427820f671502d15c9e298025d3d
 https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="62" ,M+ Liga de Campeones 3
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2" ch-number="62" ,M+ Liga de Campeones 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9878583b43714da68b4c1bbfc7642ee3&key=777e2a87439c1b28c9015fca5bffa264
 https://03campeones-dash-movistarplus.emisiondof6.com/dash/03campeones.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="63" , M+ Deportes
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPDEP" ch-number="63" , M+ Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f18c39b70f8146d9a79e9dc0c329464d&key=646fd34f890a5cdb655bf9a97af06d47
 https://mdeportes-dash-movistarplus.emisiondof6.com/dash/mdeportes.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="64" , M+ Deportes 2
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARTHUR" ch-number="64" , M+ Deportes 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=950ea23dbe3a4fde87568e21de5db567&key=ba466109f142e2ad4df606379a8e2aa0
 https://2multidep-dash-movistarplus.emisiondof6.com/dash/2multidep.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="65" , M+ Deportes 3
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP2" ch-number="65" , M+ Deportes 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=13770bb91478480d8805a8d800a001f9&key=2b6236a5edc2894a972c0791932f3b4e
 https://3multidep-dash-movistarplus.emisiondof6.com/dash/3multidep.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="66" , M+ Ellas Vamos
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MELLAV" ch-number="66" , M+ Ellas Vamos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc457d13e8354e3ba3fe467dfe5315ed&key=3abb7fb8106da89825dab57fd1c2e24e
 https://ellasv-dash-movistarplus.emisiondof6.com/dash/ellasv.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="67" , M+ Golf
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF+" ch-number="67" , M+ Golf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff9f96b0f764421fb84df9e6babe45e8&key=5d95b15a3e821d733d09aa82faacfbdb
 https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="68" , M+ Golf 2
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2" ch-number="68" , M+ Golf 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=680e0c467e784762b3ee3902cfd0a3ff&key=51870e52002a839d6fe0761b76f34716
 https://2golf-dash-movistarplus.emisiondof6.com/dash/2golf.isml/manifest.mpd
@@ -351,7 +351,7 @@ https://teledeporte-dash-movistarplus.emisiondof6.com/dash/teledeporte.isml/mani
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c1a47794fbcc415693b765899460e639&key=6a55c23eebf1286d28d53eb94d640d78
 https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="77" , Caza y Pesca
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CAZPES" ch-number="77" , Caza y Pesca
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e08814a33e4842d29cb6d4cf97af6f36&key=4d40de76240002f6f0dfbccd5e145476
 https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
@@ -626,22 +626,22 @@ https://10campeones-dash-movistarplus.emisiondof6.com/dash/10campeonesor.isml/ma
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=de22428cd02c427197e2afca61051615&key=220ea6b2e765f54e28fbd47445049659
 https://11campeones-dash-movistarplus.emisiondof6.com/dash/11campeonesor.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="191" , M+ Deportes 4
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP3" ch-number="191" , M+ Deportes 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f3bdb1e5ba384cfa86b7431d5b76af0a&key=31f48c32e7c204e080f3d8b1a9d5d17f
 https://4multidep-dash-movistarplus.emisiondof6.com/dash/4multidep.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="192" , M+ Deportes 5
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP11" ch-number="192" , M+ Deportes 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9aa45540f9a44a9782ed5d09ecaf25f9&key=dae69d47171bf1247220a1ea1e97385e
 https://5multidep-dash-movistarplus.emisiondof6.com/dash/5multidep.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="193" , M+ Deportes 6
+#EXTINF:-1 ch-number="193" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MULTI8" , M+ Deportes 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fe1eb28667e4fc396f1532f3abd6a37&key=1f2daf34eed9b667e702ce16baece0c7
 https://6multidep-dash-movistarplus.emisiondof6.com/dash/6multidep.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="194" , M+ Deportes 7
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MULTI6" ch-number="194" , M+ Deportes 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b460369baa24719b2bdcfc0a4bd978a&key=2189232c870323e05eee0c84bf02082a
 https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manifest.mpd
