@@ -355,6 +355,13 @@ https://teledeporte-dash-movistarplus.emisiondof6.com/dash/teledeporte.isml/mani
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c1a47794fbcc415693b765899460e639&key=6a55c23eebf1286d28d53eb94d640d78
 https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manifest.mpd
 
+#EXTINF:-1,Betis TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7OzIJYf7Vm2piMBDUmy/8w","k":"cuRymcI/B+wkbg8XUiaklw"},{"kty":"oct","kid":"RvjvQ2rCXSKHsNMO1pVUIQ","k":"duGtRKTnrGZ7Wn6g1/aiTw"}]}
+https://tvup-live.secure.footprint.net/betistv/betistv.mpd
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CAZPES" ch-number="77" , Caza y Pesca
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e08814a33e4842d29cb6d4cf97af6f36&key=4d40de76240002f6f0dfbccd5e145476
