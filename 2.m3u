@@ -629,9 +629,8 @@ https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="168"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS2" tvg-group="ESPAÑA", Movistar Plus+ 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=4d4ed9f45b1640968a9569d48cb68d64:04d99b897cc16983950a5f4b0c72d698
 https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd
-
 
 #EXTINF:-1 ch-number="178"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/350px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" ,LaLiga TV Hypermotion 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
