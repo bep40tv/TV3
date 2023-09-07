@@ -120,6 +120,11 @@ https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
 #EXTINF:-1 ch-number="28"  tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/LaQueSeAvecina__1_-removebg-preview.png",LQSA 24h
 https://cdn7.lqsa.es:443/hls/0/stream.m3u8
 
+#EXTINF:-1 ch-number="30" ,SELEKT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ed068c1b3254c5082e17bfd81d9b5c4:e90843add062a30c3749aefaadf18b33
+http://vfpc.gb.vodafone.es/sdash/LIVE$CUP231/2.mpd/Manifest?start=LIVE&x&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+
 #EXTINF:-1 ch-number="30" , TCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d239eaec11d44dc49e8f74af0e7330a7&key=b791a8447d030d7855f9e231886cb973
