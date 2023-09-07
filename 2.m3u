@@ -390,6 +390,12 @@ https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manife
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xrtXXBKRUp646sJ3u6oVjA","k":"Vn4SOpfiTWHimN5L+PT/3Q"},{"kty":"oct","kid":"CdUsLr5RXNGyYisCpjFG9Q","k":"HQEOWvs2zqnkkKtz9MbhYA"}]}
 https://tvup-live.secure.footprint.net/iberalia/iberalia.mpd
 
+#EXTINF:-1,Iberalia 100% Pesca
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.mpd
+
+#EXTINF:-1,Iberalia 100% Caza
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.mpd
+
 #EXTINF:-1 ch-number="78" ,Cazavisión
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
