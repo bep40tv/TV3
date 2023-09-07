@@ -384,7 +384,7 @@ https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/mani
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4548cde183064e8e8e8e10d587cba7c7:ad8add4d0b6064aa41929f02ffda98ac
-http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28CAZAVISION%29/manifest.mpd
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(CAZAVISION)/manifest.mpd
 
 #EXTINF:-1,OneToro TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
