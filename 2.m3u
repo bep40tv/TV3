@@ -721,3 +721,15 @@ https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.is
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b76612737ad4d678376f6e46c8104a3:4b84e6a343843589e0ed63d4e3a8823e
 https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
+
+#EXTINF:-1,Gol Mundial 1
+https://streamamg-court01.akamaized.net/hls/live/2103308/game1/index.m3u8
+
+#EXTINF:-1,Gol Mundial 2
+https://streamamg-court01.akamaized.net/hls/live/2103308/game2/index.m3u8
+
+#EXTINF:-1,Gol Mundial 3
+https://streamamg-court01.akamaized.net/hls/live/2103308/game3/index.m3u8
+
+#EXTINF:-1,Gol Mundial 4
+https://streamamg-court01.akamaized.net/hls/live/2103308/game4/index.m3u8
