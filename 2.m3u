@@ -224,8 +224,8 @@ https://tvup-live.secure.footprint.net/fdf6/fdf6.mpd
 
 #EXTINF:-1 ch-number="50" , Neox
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=70ba4bdde3e04d659e8cf18c076153dc&key=0028773ef7f5d911fbea36d3163b3601
-https://neox-dash-movistarplus.emisiondof6.com/dash/neoxor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=8473d9c423974c28848aef2436785aa3:b84cf24c785b3b0ea61abd2259c5d972
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="51" , Atreseries
 #KODIPROP:inputstream.adaptive.license_type=clearkey
