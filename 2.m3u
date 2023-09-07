@@ -437,8 +437,8 @@ https://vfsmartcdn.gb.vodafone.es/shss/LIVE$CUP028/2.ism/Manifest?start=LIVE&end
 
 #EXTINF:-1 ch-number="86"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA" tvg-group="ESPAÃ‘A", Odisea
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cda51c80be546c79fc1b3279a1cbb70&key=f15bd75ce1f4ef04ed42df4a83a4de5a
-https://odisea-dash-movistarplus.emisiondof6.com/dash/odiseaor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=79cd46542a9e41ba9b5a227d8fcef00f:dbe61033043c40487026aaabbbf60f10
+https://vfsmartcdn.gb.vodafone.es/shss/LIVE$CUP031/2.ism/Manifest?start=LIVE&end=END&device=HSS_SMART_ENC_LIVE
 
 #EXTINF:-1 ch-number="87" , AMC Break
 #KODIPROP:inputstream.adaptive.license_type=clearkey
