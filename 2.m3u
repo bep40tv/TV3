@@ -711,8 +711,3 @@ https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.is
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b76612737ad4d678376f6e46c8104a3:4b84e6a343843589e0ed63d4e3a8823e
 https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
-
-#EXTINF:-1 ch-number="442" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD" ,BEIN SPORTS 1 FRA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/3/results.php?keyid%5B%5D=a4dd5fa8c52b487d9f2ba74955ef63c2&key%5B%5D=63c691da72b78530a67ce8b5ea267208&keyid%5B%5D=e43a6afd903c45bdbd339c48351de976&key%5B%5D=03e12e9a1eb010b03d11deab89d4e2b2&keyid%5B%5D=12e86339c7254a6b8cdb7333a78e96b9&key%5B%5D=791babfa17e59b741e2d359455b0abac
-https://dsh-m009-live-aka-canalplus.akamaized.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd
