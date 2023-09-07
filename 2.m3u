@@ -215,6 +215,9 @@ https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=612ead57a01f4fea87af498231ac2db1&key=820954f2df52d171644b435af0563375
 https://tdt13tv-dash-movistarplus.emisiondof6.com/dash/tdt13tv.isml/manifest.mpd
 
+#EXTINF:-1,BOM Cine
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:97_HD.smil/manifest.mpd
+
 #EXTINF:-1 ch-number="48" , Energy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a14093af411c40d9924ee0d86bbc18b1&key=b9b402ff108bf3e4a4deebac31c435e5
