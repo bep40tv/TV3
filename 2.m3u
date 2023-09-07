@@ -205,6 +205,9 @@ https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b5227c110fc4af5b506e6a6c7791da1&key=fce863b6daf0a9190db85ecede2481f6
 https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
 
+#EXTINF:-1,BOM Cine
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:97_HD.smil/manifest.mpd
+
 #EXTINF:-1 ch-number="47" ,TRECE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=612ead57a01f4fea87af498231ac2db1&key=820954f2df52d171644b435af0563375
