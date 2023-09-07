@@ -432,8 +432,8 @@ https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.m
 
 #EXTINF:-1 ch-number="85" , Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0e79a01f8f1f42588f79b3e07403ec84&key=3efefd3e15e5edba00be6673363b831c
-https://discovery-dash-movistarplus.emisiondof6.com/dash/discoveryor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=51b5d9cca56079cbb81b0f031efbb812:71034915c12ead1d731e3f210bb7b8b5
+https://vfsmartcdn.gb.vodafone.es/shss/LIVE$CUP028/2.ism/Manifest?start=LIVE&end=END&device=HSS_SMART_ENC_LIVE
 
 #EXTINF:-1 ch-number="86"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA" tvg-group="ESPAÃ‘A", Odisea
 #KODIPROP:inputstream.adaptive.license_type=clearkey
