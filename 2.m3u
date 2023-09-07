@@ -345,6 +345,9 @@ https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82fce7e54aba4ba5a08bf4a3c2abc744&key=20f57ed82917d9538d0192314e61ca7b
 https://teledeporte-dash-movistarplus.emisiondof6.com/dash/teledeporte.isml/manifest.mpd
 
+#EXTINF:-1,LaLiga Plus
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd
+
 #EXTINF:-1 ch-number="76" ,Real Madrid TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c1a47794fbcc415693b765899460e639&key=6a55c23eebf1286d28d53eb94d640d78
