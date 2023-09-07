@@ -423,15 +423,15 @@ https://wildnatgeo-dash-movistarplus.emisiondof6.com/dash/wildnatgeo.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8fd058ba1dab4425aed80f19ed28fa71&key=905d498800923549e1724d606e15da8f
 https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="85" , Discovery
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" tvg-group="ESPAÃ‘A", Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51b5d9cca56079cbb81b0f031efbb812:71034915c12ead1d731e3f210bb7b8b5
-https://vfsmartcdn.gb.vodafone.es/shss/LIVE$CUP028/2.ism/Manifest?start=LIVE&end=END&device=HSS_SMART_ENC_LIVE
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0e79a01f8f1f42588f79b3e07403ec84&key=3efefd3e15e5edba00be6673363b831c
+https://discovery-dash-movistarplus.emisiondof6.com/dash/discoveryor.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="86"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA" tvg-group="ESPAÃ‘A", Odisea
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA" tvg-group="ESPAÃ‘A", Odisea
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79cd46542a9e41ba9b5a227d8fcef00f:dbe61033043c40487026aaabbbf60f10
-https://vfsmartcdn.gb.vodafone.es/shss/LIVE$CUP031/2.ism/Manifest?start=LIVE&end=END&device=HSS_SMART_ENC_LIVE
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cda51c80be546c79fc1b3279a1cbb70&key=f15bd75ce1f4ef04ed42df4a83a4de5a
+https://odisea-dash-movistarplus.emisiondof6.com/dash/odiseaor.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="87" , AMC Break
 #KODIPROP:inputstream.adaptive.license_type=clearkey
