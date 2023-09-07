@@ -277,7 +277,7 @@ https://02daznliga-dash-movistarplus.emisiondof6.com/dash/02daznliga.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=2fc77c5e033f45ca874fdc0f28e79200:31052a3d0c5cd70934e5139ae5790235
 https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
 
-#EXTINF:-1,LaLiga TV
+#EXTINF:-1,LaLiga TV Andorra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"81e9f28449c8535b989b7f26b5a545d6":"19d4a958a7077888018fba4812228928","410a06ad4bbb5a56a8a1d40581d87ade":"f24f7120db4996a6ac9e4f82e7bb188f"}
 https://tvup-gra-livegeo.secure2.footprint.net/laligatv/laligatv.mpd
@@ -396,8 +396,8 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28CAZAVISION%29/manifest
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OVs14RxiXAihDaAppz2lrA","k":"Gqm4zOKgGUCTPHMQMcfkng"},{"kty":"oct","kid":"2EA/wmO5WcGqIwO1oTo7AA","k":"mKbZmeLqWZN0PbJgiNR2eA"},{"kty":"oct","kid":"OVs14RxiXAihDaAppz2lrA","k":"Gqm4zOKgGUCTPHMQMcfkng"}]}
-https://tvup-live.secure.footprint.net/mundotoros/mundotoros.mpd
+#KODIPROP:inputstream.adaptive.license_key=bb35905eebfe4af086946c2b06e8b46a:e29b3d9f2d134ecf50aabef426cc543e
+https://livestream.onetoro.tv/Mundo_Toro_bb35905e_DRM/index.mpd
 
 #EXTINF:-1 ch-number="80" , Ubeat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
