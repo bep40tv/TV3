@@ -722,14 +722,27 @@ https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.is
 #KODIPROP:inputstream.adaptive.license_key=1b76612737ad4d678376f6e46c8104a3:4b84e6a343843589e0ed63d4e3a8823e
 https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
 
-#EXTINF:-1,Gol Mundial 1
-https://streamamg-court01.akamaized.net/hls/live/2103308/game1/index.m3u8
+#EXTINF:-1 tvg-id="GM1" tvg-logo="https://i.ibb.co/4t7TGgW/golmundial-yellow.png" group-title="GM",Gol Mundial 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0ce9639bed54adbb2cb56fc72c432f1:975415c916d541936e5c93bc759a8377
+https://d2hgospz8f10hw.cloudfront.net/out/v1/da8c9263958e4e12bec76934761f2ce5/index.mpd
 
-#EXTINF:-1,Gol Mundial 2
-https://streamamg-court01.akamaized.net/hls/live/2103309/game2/index.m3u8
+#EXTINF:-1 tvg-id="GM2" tvg-logo="https://i.ibb.co/4t7TGgW/golmundial-yellow.png" group-title="GM",Gol Mundial 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=402c5dc281e9447ab3bcf5fd0dcf18c4:a387b3c29a9c9b23df44d0c6687d7c83
+https://d2j6l84ila4fwb.cloudfront.net/out/v1/9f8390081cb34ca88d413255620725aa/index.mpd
 
-#EXTINF:-1,Gol Mundial 3
-https://streamamg-court01.akamaized.net/hls/live/2103310/game3/index.m3u8
+#EXTINF:-1 tvg-id="GM3" tvg-logo="https://i.ibb.co/4t7TGgW/golmundial-yellow.png" group-title="GM",Gol Mundial 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=199a96c2d3b047148e9afb7cb8d5be6f:85035e3db7e553efbc6ecd4f23179e3f
+https://d3i11gxzfdhtlf.cloudfront.net/out/v1/900db88ab36346f1857db342ee8c23bd/index.mpd
 
-#EXTINF:-1,Gol Mundial 4
-https://streamamg-court01.akamaized.net/hls/live/2103311/game4/index.m3u8
+#EXTINF:-1 tvg-id="GM4" tvg-logo="https://i.ibb.co/4t7TGgW/golmundial-yellow.png" group-title="GM",Gol Mundial 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f543e07ad3b74ed4a2a5bf3f8f426156:3335895e1bc8e8066b67affb74ce76f6
+https://dcj82g4u51xd6.cloudfront.net/out/v1/6b0c28edb80141969e22da6fdae4ebb0/index.mpd
+
+#EXTINF:-1 tvg-id="GMM" tvg-logo="https://i.ibb.co/4t7TGgW/golmundial-yellow.png" group-title="GM",Gol Mundial Multi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91a0ed97a694454aa614dda17c21c85c:fa29320117a91bccad736c13ffe5750f
+https://d285sv3bhzejea.cloudfront.net/out/v1/c98659833828473aabeb304dcc6f5ecf/index.mpd
