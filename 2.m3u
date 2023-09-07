@@ -627,7 +627,7 @@ https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cb1d2f2c3e14fa98692110dd1604bbc&key=86a23888fba0582be2af7db26c01d945
 https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="168"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS2" tvg-group="ESPAÑA", Movistar Plus+ 2
+#EXTINF:-1 ch-number="176"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS2" tvg-group="ESPAÑA", Movistar Plus+ 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4ed9f45b1640968a9569d48cb68d64:04d99b897cc16983950a5f4b0c72d698
 https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd
