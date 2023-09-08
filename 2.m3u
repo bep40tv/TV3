@@ -270,7 +270,7 @@ https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
 
 #EXTINF:-1,LaLiga TV BAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"81e9f28449c8535b989b7f26b5a545d6": "19d4a958a7077888018fba4812228928", "410a06ad4bbb5a56a8a1d40581d87ade": "f24f7120db4996a6ac9e4f82e7bb188f"}
+#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/2/results.php?keyid%5B%5D=81e9f28449c8535b989b7f26b5a545d6&key%5B%5D=19d4a958a7077888018fba4812228928&keyid%5B%5D=410a06ad4bbb5a56a8a1d40581d87ade&key%5B%5D=f24f7120db4996a6ac9e4f82e7bb188f
 https://tvup-gra-livegeo.secure2.footprint.net/laligatv/laligatv.mpd
 
 #EXTINF:-1 ch-number="57" ,LaLiga TV BAR 2
