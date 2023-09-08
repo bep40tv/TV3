@@ -389,7 +389,7 @@ https://tvup-live.secure.footprint.net/iberalia/iberalia.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4548cde183064e8e8e8e10d587cba7c7:ad8add4d0b6064aa41929f02ffda98ac
-http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(CAZAVISION)/manifest.mpd
+http://zamstrm041.euskaltel.com/session/d75e393a-4e36-11ee-8db1-d4f5ef026422$h1.0$default/do9fzx/Content/DASH_MDRM/Live/Channel(CAZAVISION)/manifest.mpd?token=0e2e73013f214057fbc17d2bfa27f6f6_1694185194_1694185194
 
 #EXTINF:-1,OneToro TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
