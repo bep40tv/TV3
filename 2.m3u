@@ -361,11 +361,6 @@ https://teledeporte-dash-movistarplus.emisiondof6.com/dash/teledeporte.isml/mani
 #EXTINF:-1,LaLiga Plus
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd
 
-#EXTINF:-1,beIN Sports ñ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42176706e135442ab500ee8b3a32ff31:072ea5e4b049541f4aba6f5d6bc2b3c8
-https://linear-novi.stvacdn.spectrum.com/LIVE/1147/dash/cenc/BEIN2HD_04736/manifest.mpd?mode=live&csid=stva_ovp_dash_pc_live&dm=PC&tagset_name=VAST_DASH&omap=https
-
 #EXTINF:-1 ch-number="76" ,Real Madrid TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c1a47794fbcc415693b765899460e639&key=6a55c23eebf1286d28d53eb94d640d78
