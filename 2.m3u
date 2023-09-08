@@ -244,7 +244,7 @@ https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
 #EXTINF:-1 ch-number="55" ,DAZN LaLiga
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","43d1c3b25207ff38b22ccfe17d302367":"7b1f85f6e81059473b114c16a25c829a"}
+#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/2/results.php?keyid%5B%5D=b770d5b4bb6b594daf985845aae9aa5f&key%5B%5D=b0cb46d2d31cf044bc73db71e9865f6f&keyid%5B%5D=43d1c3b25207ff38b22ccfe17d302367&key%5B%5D=7b1f85f6e81059473b114c16a25c829a
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://a179aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
@@ -383,13 +383,6 @@ https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manife
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xrtXXBKRUp646sJ3u6oVjA","k":"Vn4SOpfiTWHimN5L+PT/3Q"},{"kty":"oct","kid":"CdUsLr5RXNGyYisCpjFG9Q","k":"HQEOWvs2zqnkkKtz9MbhYA"}]}
 https://tvup-live.secure.footprint.net/iberalia/iberalia.mpd
-
-#EXTINF:-1 ch-number="78" ,Cazavisión
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4548cde183064e8e8e8e10d587cba7c7:ad8add4d0b6064aa41929f02ffda98ac
-http://zamstrm041.euskaltel.com/session/d75e393a-4e36-11ee-8db1-d4f5ef026422$h1.0$default/do9fzx/Content/DASH_MDRM/Live/Channel(CAZAVISION)/manifest.mpd?token=0e2e73013f214057fbc17d2bfa27f6f6_1694185194_1694185194
 
 #EXTINF:-1,OneToro TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
