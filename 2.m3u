@@ -219,7 +219,9 @@ https://tdt13tv-dash-movistarplus.emisiondof6.com/dash/tdt13tv.isml/manifest.mpd
 https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="49" ,Factoría de Ficción
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:16_HD.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e247fe1683ef4a28817d1c9c1fe458fc&key=1e74cdc3ccc822e19c141820332ddcd4
+https://fdf-dash-movistarplus.emisiondof6.com/dash/fdfor.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="50" , Neox
 #KODIPROP:inputstream.adaptive.license_type=clearkey
