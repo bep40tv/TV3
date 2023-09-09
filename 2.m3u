@@ -475,8 +475,10 @@ https://divinity-dash-movistarplus.emisiondof6.com/dash/divinityor.isml/manifest
 https://tvup-live.secure.footprint.net/nova6/nova6.mpd
 
 #EXTINF:-1 ch-number="97" , Mega
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/2/results.php?keyid%5B%5D=c944d115b73959cda41f33066a9877b8&key%5B%5D=f7bc864c6d3aa6ff92525d7fed9ec8b4&keyid%5B%5D=0100ddf2f5eb56bb9d11553af0669203&key%5B%5D=26a225912583d730e35791abfe513790
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c944d115b73959cda41f33066a9877b8":"f7bc864c6d3aa6ff92525d7fed9ec8b4","0100ddf2f5eb56bb9d11553af0669203":"1d5efa0575fc67e8c8b0ec3edc0acba7","e48455eeaeeb50ec932d208e44012e4f":"2a2e6be1ff1dda385a7db6dc0accfc6e"}
 https://tvup-live.secure.footprint.net/mega6/mega6.mpd
 
 #EXTINF:-1 ch-number="98" ,TEN
