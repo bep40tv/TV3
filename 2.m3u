@@ -441,8 +441,8 @@ https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.m
 
 #EXTINF:-1 ch-number="89" ,DMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15b28be7e84448aaff32156b1a101f2&key=99db6ae933c10addacc545151a08144d
-https://dmax-dash-movistarplus.emisiondof6.com/dash/dmaxor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/3/results.php?keyid%5B%5D=8f6274cbc36a52f7a9104f5fab9f1918&key%5B%5D=27060c527a69d604b42cbf2982127238&keyid%5B%5D=a23af59626f25a87bb7a92632047de16&key%5B%5D=53c3ca7308ad2b9ee0a33d4c0b266931&keyid%5B%5D=31202201d2055ddfb0e567d6fe222b09&key%5B%5D=fd5d557ea82bf155bc9b06c8cb000159
+https://tvup-gra-livegeo.secure2.footprint.net/dmax6/dmax6.mpd
 
 #EXTINF:-1 ch-number="90" , AMC Crime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
