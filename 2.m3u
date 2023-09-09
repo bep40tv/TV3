@@ -476,8 +476,8 @@ https://tvup-live.secure.footprint.net/nova6/nova6.mpd
 
 #EXTINF:-1 ch-number="97" , Mega
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b48fd17bd87b4cc697c65866e7314ed6&key=eb61b9dd29ce08d77db11e325c06ef07
-https://mega-dash-movistarplus.emisiondof6.com/dash/megaor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/3/results.php?keyid%5B%5D=c944d115b73959cda41f33066a9877b8&key%5B%5D=f7bc864c6d3aa6ff92525d7fed9ec8b4&keyid%5B%5D=6302013cde9a5a4eb1b0803c8c1ec244&key%5B%5D=5d3f72b800ac27146d74ed257a97459b&keyid%5B%5D=0100ddf2f5eb56bb9d11553af0669203&key%5B%5D=26a225912583d730e35791abfe513790
+https://tvup-live.secure.footprint.net/mega6/mega6.mpd
 
 #EXTINF:-1 ch-number="98" ,TEN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
