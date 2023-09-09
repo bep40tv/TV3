@@ -478,7 +478,7 @@ https://tvup-live.secure.footprint.net/nova6/nova6.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"97yGTG06pv-SUl1_7Z7ItA","kid":"yUTRFbc5Wc2kHzMGaph3uA"},{"kty":"oct","k":"JqIlkSWD1zDjV5Gr_lE3kA","kid":"AQDd8vXrVrudEVU68GaSAw"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"97yGTG06pv-SUl1_7Z7ItA","kid":"yUTRFbc5Wc2kHzMGaph3uA"},{"kty":"oct","k":"JqIlkSWD1zDjV5Gr_lE3kA","kid":"AQDd8vXrVrudEVU68GaSAw"},{"kty":"oct","k":"JqIlkSWD1zDjV5Gr_lE3kA","kid":"AQDd8vXrVrudEVU68GaSAw"}]}
 https://tvup-live.secure.footprint.net/mega6/mega6.mpd
 
 #EXTINF:-1 ch-number="98" ,TEN
