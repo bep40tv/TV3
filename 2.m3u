@@ -476,7 +476,7 @@ https://tvup-live.secure.footprint.net/nova6/nova6.mpd
 
 #EXTINF:-1 ch-number="97" , Mega
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/3/results.php?keyid%5B%5D=c944d115b73959cda41f33066a9877b8&key%5B%5D=f7bc864c6d3aa6ff92525d7fed9ec8b4&keyid%5B%5D=6302013cde9a5a4eb1b0803c8c1ec244&key%5B%5D=5d3f72b800ac27146d74ed257a97459b&keyid%5B%5D=0100ddf2f5eb56bb9d11553af0669203&key%5B%5D=26a225912583d730e35791abfe513790
+#KODIPROP:inputstream.adaptive.license_key=
 https://tvup-live.secure.footprint.net/mega6/mega6.mpd
 
 #EXTINF:-1 ch-number="98" ,TEN
