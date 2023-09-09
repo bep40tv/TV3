@@ -225,8 +225,8 @@ https://fdf-dash-movistarplus.emisiondof6.com/dash/fdfor.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="50" , Neox
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8473d9c423974c28848aef2436785aa3:b84cf24c785b3b0ea61abd2259c5d972
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/3/results.php?keyid%5B%5D=cda9d1d0d2225822a777fd9ce5ec8327&key%5B%5D=0c0cbddeff997205d1e93e353746ae57&keyid%5B%5D=86f96b6d5d7d5399ac1e03968489da97&key%5B%5D=a601f83e8ca69500450f6b73b648a706&keyid%5B%5D=4efa51ff888e5a3c8ff5ab005d9da6ae&key%5B%5D=0b85d7ddc0b19c06895f905533c667ef
+https://tvup-live.secure.footprint.net/neox6/neox6.mpd
 
 #EXTINF:-1 ch-number="51" , Atreseries
 #KODIPROP:inputstream.adaptive.license_type=clearkey
