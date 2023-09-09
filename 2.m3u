@@ -471,8 +471,8 @@ https://divinity-dash-movistarplus.emisiondof6.com/dash/divinityor.isml/manifest
 
 #EXTINF:-1 ch-number="96" , Nova
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2ce8c3b4d19b432c94499ca91dc9d997&key=232a0f5356e0bb2672a3043e08f18ae8
-https://nova-dash-movistarplus.emisiondof6.com/dash/novaor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/3/results.php?keyid%5B%5D=442dce681cf2569f9a6dd5fd83ca07d1&key%5B%5D=6bc78863a4ce36228e4526f07bb37f7d&keyid%5B%5D=c2b773f5c09559e58ad72c9014a54c76&key%5B%5D=32a70aecba0819174d9d4c42dbead31f&keyid%5B%5D=503618f829785defbc4a40da1c350c8d&key%5B%5D=efc45b64f9a3af0a9558fabaac5fafa3
+https://tvup-live.secure.footprint.net/nova6/nova6.mpd
 
 #EXTINF:-1 ch-number="97" , Mega
 #KODIPROP:inputstream.adaptive.license_type=clearkey
