@@ -418,7 +418,7 @@ https://wildnatgeo-dash-movistarplus.emisiondof6.com/dash/wildnatgeo.isml/manife
 https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" tvg-group="ESPAÃ‘A", Discovery
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_HD.smil/manifest.mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA" tvg-group="ESPAÃ‘A", Odisea
 #KODIPROP:inputstream.adaptive.license_type=clearkey
