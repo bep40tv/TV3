@@ -419,7 +419,7 @@ https://wildnatgeo-dash-movistarplus.emisiondof6.com/dash/wildnatgeo.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8fd058ba1dab4425aed80f19ed28fa71&key=905d498800923549e1724d606e15da8f
 https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" tvg-group="ESPAÃ‘A", Discovery
+#EXTINF:-1, Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/3/results.php?keyid%5B%5D=ea3293e57fa15b319f6dcc5b66019618&key%5B%5D=70017129ad13efcd5180234b6f8c8374&keyid%5B%5D=06ce92a18a6f5b3f9e7b41a08270cbf3&key%5B%5D=1defcea6a87b94cd56c190e970f6f533&keyid%5B%5D=3759d9cad7f15f5c9dbcf43306399bf7&key%5B%5D=5fb4e33686d4e0e508848f19cc5b4187
 https://tvup-gra-livegeo.secure2.footprint.net/discovery/discovery.mpd
