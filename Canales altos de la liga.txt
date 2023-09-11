@@ -33,3 +33,19 @@ Liga TV 7
 https://7liga-dash-movistarplus.emisiondof6.com/dash/7ligaor.isml/manifest.mpd
 
 dc3a7027da9c4431b0aba3dc6ce7ee30:abbb363d08e9d5a67e3b79305e0e04e2
+
+Dazn Liga 3
+
+https://03daznliga-dash-movistarplus.emisiondof6.com/dash/03daznliga.isml/manifest.mpd
+
+304ab899312242aab437897f5f4650a5:3660076b5117cd08b364ba975ff9a659
+
+Dazn Liga 4
+
+51472b00b33b4ae68535b61c463c1ed5:375d3c1a5e76b7ae8c0795362884ffc9
+https://04daznliga-dash-movistarplus.emisiondof6.com/dash/04daznliga.isml/manifest.mpd
+
+Dazn Liga 5
+
+748788c16da8454ca356eb91b93eafbc:1423e9115e2a366ac3d894aebe67669c
+https://05daznliga-dash-movistarplus.emisiondof6.com/dash/05daznliga.isml/manifest.mpd
