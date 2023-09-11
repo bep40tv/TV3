@@ -1,0 +1,35 @@
+Smartbank 4
+
+https://4segdiv-dash-movistarplus.emisiondof6.com/dash/4segdivor.isml/manifest.mpd
+
+d478f8418aa64f9ba950ab9783641e87:88dc713415a54bee08ec763fcbefe868
+
+Smartbank 5
+
+https://5segdiv-dash-movistarplus.emisiondof6.com/dash/5segdivor.isml/manifest.mpd
+
+c36955d9b5624faf954279d56f60a8ef:3b4b1187fa2cada38fc5728dd47fb86d
+
+Liga TV 4
+
+https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
+
+3cb1d2f2c3e14fa98692110dd1604bbc:86a23888fba0582be2af7db26c01d945
+
+Liga TV 5
+
+1b2b964968f740ff81be30add6cedbcd:4caaec509e86bbdc667a3d1ab08616ec
+
+https://5liga-dash-movistarplus.emisiondof6.com/dash/5liga.isml/manifest.mpd
+
+Liga TV 6
+
+https://6liga-dash-movistarplus.emisiondof6.com/dash/6liga.isml/manifest.mpd
+
+1aaf44a637af4da1957bb0962bcfd506:1765a7a2dcb247583014913d6c9c9608
+
+Liga TV 7
+
+https://7liga-dash-movistarplus.emisiondof6.com/dash/7ligaor.isml/manifest.mpd
+
+dc3a7027da9c4431b0aba3dc6ce7ee30:abbb363d08e9d5a67e3b79305e0e04e2
