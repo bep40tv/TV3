@@ -146,9 +146,7 @@ https://sundance-dash-movistarplus.emisiondof6.com/dash/sundance.isml/manifest.m
 https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOMOS" tvg-group="ESPAÃ‘A", Somos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=de7667d3af3440bbb359a86f7aa2151b&key=4819c2c561a918c798958efb8828d3d5
-https://somos-dash-movistarplus.emisiondof6.com/dash/somosor.isml/manifest.mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="36" , Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
