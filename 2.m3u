@@ -6,9 +6,7 @@
 https://cache4.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
 #EXTINF:-1 ch-number="2" ,La 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cfec19a6d4a4027a24b111d694e8158:c727a15ebe98a68b71950b5bee77c247
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 ch-number="3" , Antena 3
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:7_HD.smil/manifest.mpd
