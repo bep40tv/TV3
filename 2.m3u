@@ -1,34 +1,26 @@
 #EXTM3U
 
 #EXTINF:-1 ch-number="1" ,La 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=14fc0e3b249a43faa52fc69279e77cab&key=71c987df089eda046faf592931e84a5c
-https://tvela1-dash-movistarplus.emisiondof6.com/dash/tvela1.isml/manifest.mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="2" ,La 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=843f979b605b4df3aeef459fea7c5287&key=208ee6c34633c93aa9abb3fdaa83818a
-https://la2-dash-movistarplus.emisiondof6.com/dash/la2.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=5cfec19a6d4a4027a24b111d694e8158:c727a15ebe98a68b71950b5bee77c247
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="3" , Antena 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7bed9527b60a44dc8fbbe984568253a6&key=b62d1096db64d3ce09120f4b98472f22
-https://antena3-dash-movistarplus.emisiondof6.com/dash/antena3.isml/manifest.mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:7_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="4" , Cuatro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=26a7ba3841ad411ea13a9fb9d1470ea9&key=210006fb5fdcae5a7d36051de31911b4
-https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=9336b04d601a47978e70d9d8b09734e0:f8c81bcba543da5d14b55a80b87747f1
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="5" , Telecinco
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=809ed76f265641d9bc731351d6a06c40&key=97315744b3b70a74af746cdd61a299da
-https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:8_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="6" , La Sexta
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=81cd66b57f22429b9996220256374ed4&key=233f8d8ebcd73817b03cd90936c22303
-https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="7"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS", Movistar Plus+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
