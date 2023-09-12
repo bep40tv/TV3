@@ -366,7 +366,7 @@ https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
 https://teledeporte-dash-movistarplus.emisiondof6.com/dash/teledeporte.isml/manifest.mpd
 
 #EXTINF:-1,LaLiga Plus
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="76" ,Real Madrid TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
