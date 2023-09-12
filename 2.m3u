@@ -146,7 +146,7 @@ https://sundance-dash-movistarplus.emisiondof6.com/dash/sundance.isml/manifest.m
 https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOMOS" tvg-group="ESPAÃ‘A", Somos
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_HD.smil/manifest.mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="36" , Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -423,9 +423,7 @@ https://wildnatgeo-dash-movistarplus.emisiondof6.com/dash/wildnatgeo.isml/manife
 https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.mpd
 
 #EXTINF:-1, Discovery
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/3/results.php?keyid%5B%5D=ea3293e57fa15b319f6dcc5b66019618&key%5B%5D=70017129ad13efcd5180234b6f8c8374&keyid%5B%5D=06ce92a18a6f5b3f9e7b41a08270cbf3&key%5B%5D=1defcea6a87b94cd56c190e970f6f533&keyid%5B%5D=3759d9cad7f15f5c9dbcf43306399bf7&key%5B%5D=5fb4e33686d4e0e508848f19cc5b4187
-https://tvup-gra-livegeo.secure2.footprint.net/discovery/discovery.mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA" tvg-group="ESPAÃ‘A", Odisea
 #KODIPROP:inputstream.adaptive.license_type=clearkey
