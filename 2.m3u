@@ -112,7 +112,7 @@ https://msuspense-dash-movistarplus.emisiondof6.com/dash/msuspense.isml/manifest
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=535ec7ec6ef6458e92bf953715a9b883&key=3bf44acc04bba5479207d28b28edef78
 https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/canal/DCESP" ch-number="26" , M+ Cine Español
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/IMG_20230912_191535-removebg-preview.png" ch-number="26" , M+ Cine Español
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aab0fcd931144e489fff46f80fa98098&key=d68713bd9786b2c2cf45b0478ee1e91f
 https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
