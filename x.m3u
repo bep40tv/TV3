@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Factoría de Ficción
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1,Private
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=48ed37cbb5cb4982909bc6e6b13fb2a4:999dd1d63aa1c02e44bb6cf81d3f048e
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/manifest.mpd
 
