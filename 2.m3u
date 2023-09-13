@@ -200,8 +200,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:97_HD.smil/mani
 
 #EXTINF:-1 ch-number="47" ,TRECE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=612ead57a01f4fea87af498231ac2db1&key=820954f2df52d171644b435af0563375
-https://tdt13tv-dash-movistarplus.emisiondof6.com/dash/tdt13tv.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cajanegra.webcindario.com/ck/3/results.php?keyid%5B%5D=f0213291d4a25fee9530de65c9532ae6&key%5B%5D=254de907dbb549bb660ce714e4b45828&keyid%5B%5D=05d85d5b234a592bb1fdedaea2638f2f&key%5B%5D=a4c2a5cf13e84411a1ebc744ef23965f&keyid%5B%5D=42f47d56a5d25a159fec6cf164b2ffd8&key%5B%5D=74801648c42315b6f8a07ad4eb4f26b3
+https://tvup-gra-livegeo.secure2.footprint.net/trece6/trece6.mpd
 
 #EXTINF:-1 ch-number="48" , Energy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
