@@ -17,7 +17,10 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:7_HD.smil/mani
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.mpd
 
 #EXTINF:-1 ch-number="5" , Telecinco
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:8_HD.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=809ed76f265641d9bc731351d6a06c40:97315744b3b70a74af746cdd61a299da
+https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="6" , La Sexta
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
