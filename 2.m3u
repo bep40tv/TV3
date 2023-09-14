@@ -13,8 +13,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:7_HD.smil/mani
 
 #EXTINF:-1 ch-number="4" , Cuatro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9336b04d601a47978e70d9d8b09734e0:f8c81bcba543da5d14b55a80b87747f1
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
+https://cache4.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
 
 #EXTINF:-1 ch-number="5" , Telecinco
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
