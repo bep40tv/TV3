@@ -381,8 +381,8 @@ https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manife
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xrtXXBKRUp646sJ3u6oVjA","k":"Vn4SOpfiTWHimN5L+PT/3Q"},{"kty":"oct","kid":"CdUsLr5RXNGyYisCpjFG9Q","k":"HQEOWvs2zqnkkKtz9MbhYA"}]}
-https://tvup-live.secure.footprint.net/iberalia/iberalia.mpd
+#KODIPROP:inputstream.adaptive.license_key=3c91a4e9ccc6f6f253fc9d7c57850aa9:c88cd0613ffed9721c0616583cb917d8
+https://cache4.zapitv.com/live/eds_c2/iberalia/dash_live_enc/iberalia.mpd
 
 #EXTINF:-1 tvg-logo="https://www.iberaliago.com/static/images/logo/iberalia-logo.png" ,Iberalia 100% Caza
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_premium.smil/manifest.mpd
