@@ -437,8 +437,8 @@ https://tvup-gra-livegeo.secure2.footprint.net/dmax6/dmax6.mpd
 
 #EXTINF:-1 ch-number="90" , AMC Crime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=50d9708d9d814d919a2af457060dc55e&key=0358f48f4a93b5f999bfc58699ea15ec
-https://crimeamc-dash-movistarplus.emisiondof6.com/dash/crimeamcor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=e3048d6cc539b8a8b90d74992fb4e197:4e494e4d179abc3d3f10073b21ac8630
+https://cache4.zapitv.com/live/eds_c2/crimen/dash_live_enc/crimen.mpd
 
 #EXTINF:-1 ch-number="91" , BuenViaje
 #KODIPROP:inputstream.adaptive.license_type=clearkey
