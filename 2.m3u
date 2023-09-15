@@ -6,7 +6,9 @@
 https://cache4.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
 #EXTINF:-1 ch-number="2" ,La 2
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=843f979b605b4df3aeef459fea7c5287:208ee6c34633c93aa9abb3fdaa83818a
+https://la2-dash-movistarplus.emisiondof6.com/dash/la2.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="3" , Antena 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -25,7 +27,9 @@ https://cache4.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
 https://ott.zapitv.com/live/eds_c2/telecinco/dash_live_enc/telecinco.mpd
 
 #EXTINF:-1 ch-number="6" , La Sexta
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81cd66b57f22429b9996220256374ed4:233f8d8ebcd73817b03cd90936c22303
+https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="7"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS", Movistar Plus+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
