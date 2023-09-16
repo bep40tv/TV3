@@ -689,6 +689,11 @@ https://10campeones-dash-movistarplus.emisiondof6.com/dash/10campeonesor.isml/ma
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=de22428cd02c427197e2afca61051615&key=220ea6b2e765f54e28fbd47445049659
 https://11campeones-dash-movistarplus.emisiondof6.com/dash/11campeonesor.isml/manifest.mpd
 
+#EXTINF:-1 ch-number="187"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11" tvg-group="ESPAÑA",M+ Liga de Campeones 11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3e272c1143a4c67811cc49e7a2408e2:54ce61965bcb66652ca87d1f4a8f2d8c
+https://12campeones-dash-movistarplus.emisiondof6.com/dash/12campeonesor.isml/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP3" ch-number="191" , M+ Deportes 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f3bdb1e5ba384cfa86b7431d5b76af0a&key=31f48c32e7c204e080f3d8b1a9d5d17f
