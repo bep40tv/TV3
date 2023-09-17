@@ -391,6 +391,9 @@ https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manife
 https://cache4.zapitv.com/live/eds_c2/iberalia/dash_live_enc/iberalia.mpd
 
 #EXTINF:-1 tvg-logo="https://www.iberaliago.com/static/images/logo/iberalia-logo.png" ,Iberalia 100% Caza
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54be45ed0cc1524243461e2f420310d9:6d1386b01391d3d86f4debf5d9650fe7
+https://cache4.zapitv.com/live/eds_c2/iberalia_caza/dash_live_enc/iberalia_caza.mpd
 
 #EXTINF:-1 tvg-logo="https://www.iberaliago.com/static/images/logo/iberalia-logo.png" ,Iberalia 100% Pesca
 #KODIPROP:inputstream.adaptive.license_type=clearkey
