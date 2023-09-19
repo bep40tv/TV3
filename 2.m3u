@@ -709,6 +709,25 @@ https://12campeones-dash-movistarplus.emisiondof6.com/dash/12campeonesor.isml/ma
 #KODIPROP:inputstream.adaptive.license_key=40881bea8d274d948e12806bff0d4b1e:2c5070dfbe12f3879f0577c4eab13e56
 https://13campeones-dash-movistarplus.emisiondof6.com/dash/13campeonesor.isml/manifest.mpd
 
+#EXTINF:-1 ch-number="187"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP13" tvg-group="ESPAÑA",M+ Liga de Campeones 14
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=599f4a42681e47dbae61f8787b6937ee:cc4e347800cc407acfb4c5b4a193edff
+https://14campeones-dash-movistarplus.emisiondof6.com/dash/14campeonesor.isml/manifest.mpd
+
+#EXTINF:-1 ch-number="187"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP14" tvg-group="ESPAÑA",M+ Liga de Campeones 15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=219886d081b641c3a7ff629285a8f424:26df42847064f44e4136cc34d60988d6
+https://15campeones-dash-movistarplus.emisiondof6.com/dash/15campeonesor.isml/manifest.mpd
+
+#EXTINF:-1 ch-number="187"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP15" tvg-group="ESPAÑA",M+ Liga de Campeones 16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb73c76ad5e94594b7c21873e69ed861:8c6168b7b3be97fb73e03ddb11c19f3c
+https://16campeones-dash-movistarplus.emisiondof6.com/dash/16campeonesor.isml/manifest.mpd
+
+#EXTINF:-1 ch-number="187"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP16" tvg-group="ESPAÑA",M+ Liga de Campeones 17
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a269d28686f451db913ccadef58e9ac:8f72a76b699a2a5ff35058f36c14b421
+https://17campeones-dash-movistarplus.emisiondof6.com/dash/17campeonesor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP3" ch-number="191" , M+ Deportes 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
