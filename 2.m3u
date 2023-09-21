@@ -1,46 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1 ch-number="1" ,La 1
+#EXTINF:-1,La 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=14fc0e3b249a43faa52fc69279e77cab&key=71c987df089eda046faf592931e84a5c
 https://tvela1-dash-movistarplus.emisiondof6.com/dash/tvela1.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="2" ,La 2
+#EXTINF:-1,La 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=843f979b605b4df3aeef459fea7c5287&key=208ee6c34633c93aa9abb3fdaa83818a
 https://la2-dash-movistarplus.emisiondof6.com/dash/la2.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="3" , Antena 3
+#EXTINF:-1, Antena 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7bed9527b60a44dc8fbbe984568253a6&key=b62d1096db64d3ce09120f4b98472f22
 https://antena3-dash-movistarplus.emisiondof6.com/dash/antena3.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="4" , Cuatro
+#EXTINF:-1, Cuatro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=26a7ba3841ad411ea13a9fb9d1470ea9&key=210006fb5fdcae5a7d36051de31911b4
 https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="5" , Telecinco
+#EXTINF:-1, Telecinco
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=809ed76f265641d9bc731351d6a06c40&key=97315744b3b70a74af746cdd61a299da
 https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="6" , La Sexta
+#EXTINF:-1, La Sexta
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=81cd66b57f22429b9996220256374ed4&key=233f8d8ebcd73817b03cd90936c22303
 https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="7"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS", Movistar Plus+
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS", Movistar Plus+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8468eebb95d8418ca85df6a2381fb64d&key=008748a6acbbb3491bf5dd49355d8207
 https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="8"  tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/VAMOSD", M+ Vamos HD
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/VAMOSD", M+ Vamos HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=77b7e5e8b6354bf8925af0ddd24afebd&key=635ed494d990466029b9681c7d981143
 https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 
-#EXTINF:-1 ch-number="9" ,Castilla la Mancha TV
+#EXTINF:-1 ,Castilla la Mancha TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
