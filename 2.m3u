@@ -337,8 +337,8 @@ https://2golf-dash-movistarplus.emisiondof6.com/dash/2golf.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="69" , DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=413b3adb78dd4684a7866819786b8836&key=92d6e5cfbe02fef2e09e27617e3b9403
-https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 #EXTINF:-1 ch-number="70" , DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
