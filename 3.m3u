@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 ch-number="1" ,prueba
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b1b8e4f07d049e4bfac5ca39a601ed2:3ee412aa051502ae69d3b141670f830b
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28CPESTRENOSHD%29/manifest.mpd
 
 
 #EXTINF:-1 ch-number="1" ,Mitele Plus 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0abdd163b0a44ce3a81cb06b38396d9e:a8a2e2554a0e18d2245b520eba50cdd0
 https://directos.mediaset.es/oripremium02/live/premium02/mpd-cenc/mpd-cenc.isml/.mpd
 
@@ -53,16 +53,16 @@ https://directos.mediaset.es/oripremium09/live/premium09/mpd-cenc/mpd-cenc.isml/
 https://directos.mediaset.es/oripremium10/live/premium10/mpd-cenc/mpd-cenc.isml/.mpd
 
 #EXTINF:-1,NOVA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6041f6751bd46efb727d27376fcb692:4862aa4cbae01f743cee1f5bc1b57ae6
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(NOVA)/manifest.mpd
 
 #EXTINF:-1,NEOX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f04510b6bc0f4a7f83661fcc0908040d:e194d6c7ed998932b1ffc27eff231145
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(NEOX)/manifest.mpd
 
 #EXTINF:-1,MEGA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fedca9d905f24768889d4b79759977d8:eb06b9f13d536dfde729ebdc849da435
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MEGA)/manifest.mpd
