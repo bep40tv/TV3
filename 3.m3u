@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 ch-number="1" ,Mitele Plus 1
+#EXTINF:-1 ch-number="1" ,prueba
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0abdd163b0a44ce3a81cb06b38396d9e:a8a2e2554a0e18d2245b520eba50cdd0
-https://directos.mediaset.es/oripremium01/live/premium01/mpd-cenc/mpd-cenc.isml/.mpd
+#KODIPROP:inputstream.adaptive.license_key=5b1b8e4f07d049e4bfac5ca39a601ed2:3ee412aa051502ae69d3b141670f830b
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28CPESTRENOSHD%29/manifest.mpd
 
 
 #EXTINF:-1 ch-number="1" ,Mitele Plus 2
