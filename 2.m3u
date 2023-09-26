@@ -596,6 +596,11 @@ https://worldbbc-dash-movistarplus.emisiondof6.com/dash/worldbbc.isml/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=37a46881d0944afa8ea10942555a5267:74fd02872ff974f8f38a9ff3845eaa5b
 https://intcnn-dash-movistarplus.emisiondof6.com/dash/intcnnor.isml/manifest.mpd
 
+#EXTINF:-1,FOX News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7a4ac8d75a047e1baea5a4453664325:5287f24cc620f6f187a7b93d31be80d4
+https://newsfox-dash-movistarplus.emisiondof6.com/dash/newsfoxor.isml/manifest.mpd
+
 #EXTINF:-1 ch-number="132" ,Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
