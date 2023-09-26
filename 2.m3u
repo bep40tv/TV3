@@ -587,14 +587,14 @@ https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
 https://24horas-dash-movistarplus.emisiondof6.com/dash/24horasor.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="128" ,BBC World News Europe
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vLEeacm5vnyTh/+qBmwL1A","kid":"7huajKxCWQ2Hrzimyy4wvg"},{"kty":"oct","k":"YxH1Oz+T0XMOwiLRoyiV5w","kid":"NmbUR25iXdSP0FjcHLsd2g"},{"kty":"oct","k":"LcIDOn0hhazrkcM+8GJ1BA","kid":"geNMPzy5WByWMaPduglLwA"}],"type":"temporary"}
-https://tvup-live.secure.footprint.net/bbcworldnews/bbcworldnews.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca46a26617cf4249868b9add6e64123d:124947113dd855fdd2029be348b9d79b
+https://worldbbc-dash-movistarplus.emisiondof6.com/dash/worldbbc.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="129" ,CNN International Europe
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37a46881d0944afa8ea10942555a5267:74fd02872ff974f8f38a9ff3845eaa5b
+https://intcnn-dash-movistarplus.emisiondof6.com/dash/intcnnor.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="132" ,Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
