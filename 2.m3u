@@ -601,6 +601,11 @@ https://intcnn-dash-movistarplus.emisiondof6.com/dash/intcnnor.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d7a4ac8d75a047e1baea5a4453664325:5287f24cc620f6f187a7b93d31be80d4
 https://newsfox-dash-movistarplus.emisiondof6.com/dash/newsfoxor.isml/manifest.mpd
 
+#EXTINF:-1,Euronews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f73028292d14b9082934b435e5587eb:16260268d1cd7e58592735c7110b1895
+https://1euronews-dash-movistarplus.emisiondof6.com/dash/1euronewsor.isml/manifest.mpd
+
 #EXTINF:-1 ch-number="132" ,Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
