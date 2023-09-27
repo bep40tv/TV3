@@ -273,7 +273,7 @@ https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
 #EXTINF:-1 ch-number="58" ,DAZN LaLiga 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=329c5cf06f7543199cdf3e707b2f6b8e&key=8e8c0c4448ae98a7b0e9a9d01c4dc33b
-https://1p-02daznliga-dash-movistarplus.emisiondof6.com/dash/02daznliga.isml/manifest.mpd
+https://02daznliga-dash-movistarplus.emisiondof6.com/dash/02daznliga.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="59"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/350px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" ,LaLiga TV Hypermotion 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -771,12 +771,12 @@ https://8multidep-dash-movistarplus.emisiondof6.com/dash/8multidepor.isml/manife
 #EXTINF:-1 ch-number="196" , DAZN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b4641842b5824390a7fe8d4ec781031d&key=cd156815ef05dcc9fcc3626e7d52db79
-https://1p-dazn3-dash-movistarplus.emisiondof6.com/dash/dazn3.isml/manifest.mpd
+https://dazn3-dash-movistarplus.emisiondof6.com/dash/dazn3.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="197" , DAZN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=436c2164392e460dae41420f53f9f396&key=8e0ea1289135355f0aef59266bd0070e
-https://1p-dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
+https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
 
 #EXTINF:-1 ch-number="440" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH" , M+ LaLiga TV UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -792,3 +792,5 @@ https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.is
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b76612737ad4d678376f6e46c8104a3:4b84e6a343843589e0ed63d4e3a8823e
 https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
+
+kdkdxbdldbzlcndkdixndkxlfdi
